@@ -32,7 +32,7 @@ defmodule EntitySports.MixProject do
       {:credo, "~> 1.7.5", only: [:dev, :test], runtime: false},
       {:excoveralls, "~> 0.12", only: :test},
       {:jason, "~> 1.4.1"},
-      {:ecto, "~> 3.11.2"},
+      {:ecto, "~> 3.11"},
       {:httpoison, "~> 2.2.1"},
       {:poison, "~> 3.0"}
     ] ++ deps(Mix.target(), Mix.env())

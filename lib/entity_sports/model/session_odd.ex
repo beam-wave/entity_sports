@@ -8,6 +8,8 @@ defmodule EntitySports.Model.SessionOdd do
     field(:question_id, :integer)
     field(:team_batting, :string)
     field(:title, :string)
+    # Run, Wicket, Four, Six, Balls, ... or "" for match-level markets
+    field(:category, :string)
     field(:back_condition, :string)
     field(:back, :string)
     field(:lay_condition, :string)

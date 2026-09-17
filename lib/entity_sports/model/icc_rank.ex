@@ -12,5 +12,11 @@ defmodule EntitySports.Model.IccRank do
     field(:team, :string)
     field(:rating, :integer)
     field(:points, :integer)
+    # teams only
+    field(:matches, :integer)
+    field(:logo_url, :string)
+    # players only
+    field(:team_id, :integer)
+    field(:careerbestrating, :string)
   end
 end

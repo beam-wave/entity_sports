@@ -22,9 +22,10 @@ defmodule EntitySports.Model.MatchInning do
     field(:target, :string)
     field(:innings_create_verify, :string)
     field(:innings_result_verify, :string)
-    field(:recent_scores, :string)
-    field(:last_five_overs, :string)
-    field(:last_ten_overs, :string)
+    # string ("4 1 W 0 6") or [] when absent
+    field(:recent_scores, Raw)
+    field(:last_five_overs, Raw)
+    field(:last_ten_overs, Raw)
     # %{"p1" => %{"startover" => .., "endover" => ..}} or []
     field(:powerplay, Raw)
     # %{"batting" => %{..}, "bowling" => %{..}}

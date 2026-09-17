@@ -10,4 +10,7 @@ defmodule EntitySports.Model.IccRankGroup do
     embeds_one(:allrounders, Model.IccRankCategory)
     embeds_one(:teams, Model.IccRankCategory)
   end
+
+  # API key is "all-rounders"
+  def prepare(params), do: Helper.rename_key(params, "all-rounders", "allrounders")
 end
