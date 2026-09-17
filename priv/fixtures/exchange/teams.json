@@ -1,0 +1,49 @@
+{
+  "status": "ok",
+  "response": {
+    "items": [
+      {
+        "tid": 127857,
+        "title": " Brazil Women U-19",
+        "abbr": "BRW",
+        "alt_name": " Brazil Women U-19",
+        "type": "country",
+        "thumb_url": "https://images.entitysport.com/assets/uploads/2023/06/Rectangle-3348-2023-06-17T101404.805.png",
+        "logo_url": "https://images.entitysport.com/assets/uploads/2023/06/Rectangle-3348-2023-06-17T101404.805.png",
+        "country": "br",
+        "sex": "female",
+        "matches_url": "teams/127857/matches"
+      },
+      {
+        "tid": 120141,
+        "title": "1.Kieler HTC",
+        "abbr": "KHTC",
+        "alt_name": "KHTC",
+        "type": "club",
+        "thumb_url": "https://images.entitysport.com/assets/uploads/2021/05/2705.png",
+        "logo_url": "https://images.entitysport.com/assets/uploads/2021/05/2705.png",
+        "country": "de",
+        "sex": "male",
+        "matches_url": "teams/120141/matches"
+      },
+      {
+        "tid": 126112,
+        "title": "11 Ace",
+        "abbr": "EAC",
+        "alt_name": "11 Ace",
+        "type": "club",
+        "thumb_url": "https://images.entitysport.com/assets/uploads//2022/09/FC-EAC@2x.png",
+        "logo_url": "https://images.entitysport.com/assets/uploads//2022/09/FC-EAC@2x.png",
+        "country": "ae",
+        "sex": "male",
+        "matches_url": "teams/126112/matches"
+      }
+    ],
+    "total_items": "3365",
+    "total_pages": 337
+  },
+  "etag": "7f51523c7dc4d7b0621a84e44d0b3915",
+  "modified": "2023-07-24 09:30:04",
+  "datetime": "2023-07-24 09:30:04",
+  "api_version": "1.0"
+}

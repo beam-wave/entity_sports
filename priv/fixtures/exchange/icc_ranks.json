@@ -1,0 +1,149 @@
+{
+  "status": "ok",
+  "response": {
+    "ranks": {
+      "batsmen": {
+        "odis": [
+          {
+            "rank": "1",
+            "pid": "43371",
+            "player": "Babar Azam",
+            "team": "PAK",
+            "rating": "882"
+          },
+          {
+            "rank": "2",
+            "pid": "46135",
+            "player": "Rassie van der Dussen",
+            "team": "SA",
+            "rating": "777"
+          },
+          {
+            "rank": "3",
+            "pid": "90739",
+            "player": "Shubman Gill",
+            "team": "IND",
+            "rating": "750"
+          }
+        ],
+        "tests": [
+          {
+            "rank": "1",
+            "pid": "31",
+            "player": "Kane Williamson",
+            "team": "NZ",
+            "rating": "883"
+          },
+          {
+            "rank": "2",
+            "pid": "99",
+            "player": "Joe Root",
+            "team": "ENG",
+            "rating": "859"
+          },
+          {
+            "rank": "3",
+            "pid": "77",
+            "player": "Steve Smith",
+            "team": "AUS",
+            "rating": "842"
+          }
+        ],
+        "t20s": [
+          {
+            "rank": "1",
+            "pid": "598",
+            "player": "Suryakumar Yadav",
+            "team": "IND",
+            "rating": "889"
+          },
+          {
+            "rank": "2",
+            "pid": "44054",
+            "player": "Mohammad Rizwan",
+            "team": "PAK",
+            "rating": "811"
+          },
+          {
+            "rank": "3",
+            "pid": "43371",
+            "player": "Babar Azam",
+            "team": "PAK",
+            "rating": "756"
+          }
+        ]
+      },
+      "bowlers": {
+        "odis": [
+          {
+            "rank": "1",
+            "pid": "91",
+            "player": "Josh Hazlewood",
+            "team": "AUS",
+            "rating": "705"
+          },
+          {
+            "rank": "2",
+            "pid": "89",
+            "player": "Mitchell Starc",
+            "team": "AUS",
+            "rating": "686"
+          },
+          {
+            "rank": "3",
+            "pid": "486",
+            "player": "Matt Henry",
+            "team": "NZ",
+            "rating": "667"
+          }
+        ],
+        "tests": [
+          {
+            "rank": "1",
+            "pid": "129",
+            "player": "Ravichandran Ashwin",
+            "team": "IND",
+            "rating": "879"
+          },
+          {
+            "rank": "2",
+            "pid": "1953",
+            "player": "Kagiso Rabada",
+            "team": "SA",
+            "rating": "825"
+          },
+          {
+            "rank": "3",
+            "pid": "125",
+            "player": "Ravindra Jadeja",
+            "team": "IND",
+            "rating": "782"
+          }
+        ],
+        "t20s": [
+          {
+            "rank": "1",
+            "pid": "1157",
+            "player": "Rashid Khan",
+            "team": "AFG",
+            "rating": "713"
+          },
+          {
+            "rank": "2",
+            "pid": "1933",
+            "player": "Adil Rashid",
+            "team": "ENG",
+            "rating": "687"
+          },
+          {
+            "rank": "3",
+            "pid": "1140",
+            "player": "Wanindu Hasaranga",
+            "team": "SL",
+            "rating": "686"
+          }
+        ]
+      }
+    }
+  }
+}

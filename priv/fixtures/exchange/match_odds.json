@@ -1,0 +1,152 @@
+{
+  "status": "ok",
+  "response": {
+    "match_info": {
+      "match_id": 73817,
+      "title": "Gujarat Titans vs Punjab Kings",
+      "short_title": "GT vs PBKS",
+      "subtitle": "Match 17",
+      "match_number": "17",
+      "format": 6,
+      "format_str": "T20",
+      "status": 2,
+      "status_str": "Completed",
+      "status_note": "Punjab Kings won by 3 wickets",
+      "game_state": 0,
+      "game_state_str": "Default",
+      "domestic": "1",
+      "competition": {
+        "cid": 128471,
+        "title": "Indian Premier League",
+        "abbr": "IPL 2024",
+        "type": "tournament",
+        "category": "domestic",
+        "match_format": "t20",
+        "season": "2024",
+        "status": "result",
+        "datestart": "2024-03-22",
+        "dateend": "2024-05-26",
+        "country": "in",
+        "total_matches": "74",
+        "total_rounds": "1",
+        "total_teams": "10"
+      },
+      "teama": {
+        "team_id": 123216,
+        "name": "Gujarat Titans",
+        "short_name": "GT",
+        "logo_url": "https://images.entitysport.com/assets/uploads/2022/03/Gujarat-Cricket-TeamLogo.png",
+        "thumb_url": "https://images.entitysport.com/assets/uploads/2022/03/Gujarat-Cricket-TeamLogo.png",
+        "scores_full": "199/4 (20 ov)",
+        "scores": "199/4",
+        "overs": "20"
+      },
+      "teamb": {
+        "team_id": 627,
+        "name": "Punjab Kings",
+        "short_name": "PBKS",
+        "logo_url": "https://images.entitysport.com/assets/uploads/2021/03/PK-Logo.png",
+        "thumb_url": "https://images.entitysport.com/assets/uploads/2021/03/PK-Logo.png",
+        "scores_full": "200/7 (19.5 ov)",
+        "scores": "200/7",
+        "overs": "19.5"
+      },
+      "date_start": "2024-04-04 14:00:00",
+      "date_end": "2024-04-05 00:00:00",
+      "timestamp_start": 1712239200,
+      "timestamp_end": 1712275200,
+      "date_start_ist": "2024-04-04 19:30:00",
+      "date_end_ist": "2024-04-05 05:30:00",
+      "venue": {
+        "venue_id": "332",
+        "name": "Narendra Modi Stadium",
+        "location": "Ahmedabad",
+        "country": "India",
+        "timezone": ""
+      },
+      "umpires": "Nitin Menon(India), Vineet Kulkarni(India), Virender Sharma(India, TV)",
+      "referee": "Javagal Srinath(India)",
+      "equation": "",
+      "live": "",
+      "result": "PBKS won by 3 wickets",
+      "result_type": 2,
+      "win_margin": "3 wickets",
+      "winning_team_id": 627,
+      "commentary": 1,
+      "wagon": 1,
+      "latest_inning_number": 2,
+      "oddstype": "betfair",
+      "weather": {
+        "weather": "Smoke",
+        "weather_desc": "smoke",
+        "temp": 26.97,
+        "humidity": 47,
+        "visibility": 4000,
+        "wind_speed": 5.75,
+        "clouds": 100
+      },
+      "pitch": {
+        "pitch_condition": "Fast & Bounce",
+        "batting_condition": "Average",
+        "pace_bowling_condition": "Pace & Bounce",
+        "spine_bowling_condition": "Sharp Turn"
+      },
+      "toss": {
+        "text": "Punjab Kings elected to bowl",
+        "winner": 627,
+        "decision": 2
+      }
+    },
+    "live_odds": {
+      "matchodds": {
+        "teama": {
+          "back": "1000",
+          "lay": "0",
+          "back_volume": "4.24",
+          "lay_volume": "0"
+        },
+        "teamb": {
+          "back": "0",
+          "lay": "1.01",
+          "back_volume": "0",
+          "lay_volume": "298337.44"
+        }
+      },
+      "tiedmatch": {
+        "teama": {
+          "back": "1000",
+          "lay": "0",
+          "back_volume": "58.59",
+          "lay_volume": "0"
+        },
+        "teamb": {
+          "back": "0",
+          "lay": "1.01",
+          "back_volume": "0",
+          "lay_volume": "133811.47"
+        }
+      },
+      "bookmaker": {
+        "teama": {
+          "back": "0.00",
+          "lay": "0.00",
+          "back_volume": "0.00",
+          "lay_volume": "0.00"
+        },
+        "teamb": {
+          "back": "0.00",
+          "lay": "0.00",
+          "back_volume": "0.00",
+          "lay_volume": "0.00"
+        }
+      }
+    },
+    "session_odds": [],
+    "total_items": 1,
+    "total_pages": 1
+  },
+  "etag": "11007994c3722d2a240b9c7e97078a65",
+  "modified": "2024-09-10 08:41:19",
+  "datetime": "2024-09-10 08:41:19",
+  "api_version": "1.0"
+}

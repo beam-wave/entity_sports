@@ -1,0 +1,1018 @@
+{
+  "status": "ok",
+  "response": {
+    "match_id": 63704,
+    "match_info": {
+      "match_id": 63704,
+      "title": "West Indies vs India",
+      "short_title": "WI vs IND",
+      "subtitle": "5th T20I",
+      "match_number": "5",
+      "format": 3,
+      "format_str": "T20I",
+      "status": 2,
+      "status_str": "Completed",
+      "status_note": "West Indies won by 8 wickets",
+      "game_state": 0,
+      "game_state_str": "Default",
+      "domestic": "0",
+      "competition": {
+        "cid": 127726,
+        "title": "India tour of West Indies",
+        "abbr": "WI vs IND",
+        "type": "tour",
+        "category": "international",
+        "match_format": "mixed",
+        "season": "2023",
+        "status": "result",
+        "datestart": "2023-07-12",
+        "dateend": "2023-08-13",
+        "country": "wi",
+        "total_matches": "10",
+        "total_rounds": "3",
+        "total_teams": "2"
+      },
+      "teama": {
+        "team_id": 17,
+        "name": "West Indies",
+        "short_name": "WI",
+        "logo_url": "https://images.entitysport.com/assets/uploads/2023/05/West-Indies.png",
+        "thumb_url": "https://images.entitysport.com/assets/uploads/2023/05/West-Indies.png",
+        "scores_full": "171/2 (18 ov)",
+        "scores": "171/2",
+        "overs": "18"
+      },
+      "teamb": {
+        "team_id": 25,
+        "name": "India",
+        "short_name": "IND",
+        "logo_url": "https://images.entitysport.com/assets/uploads//2023/01/india-4.png",
+        "thumb_url": "https://images.entitysport.com/assets/uploads//2023/01/india-4.png",
+        "scores_full": "165/9 (20 ov)",
+        "scores": "165/9",
+        "overs": "20"
+      },
+      "date_start": "2023-08-13 14:30:00",
+      "date_end": "2023-08-14 00:30:00",
+      "timestamp_start": 1691937000,
+      "timestamp_end": 1691973000,
+      "date_start_ist": "2023-08-13 20:00:00",
+      "date_end_ist": "2023-08-14 06:00:00",
+      "venue": {
+        "venue_id": "15",
+        "name": "Central Broward Regional Park Stadium Turf Ground",
+        "location": "Lauderhill",
+        "country": "American Samoa",
+        "timezone": ""
+      },
+      "umpires": "Gregory Brathwaite (West Indies), Nigel Duguid (West Indies), Leslie Reifer (West Indies, TV)",
+      "referee": "Richie Richardson (West Indies)",
+      "equation": "",
+      "live": "",
+      "result": "WI won by 8 wickets",
+      "result_type": 1,
+      "win_margin": "8 wickets",
+      "winning_team_id": 17,
+      "commentary": 1,
+      "wagon": 1,
+      "latest_inning_number": 2,
+      "oddstype": "betfair",
+      "weather": {
+        "weather": "Clouds",
+        "weather_desc": "overcast clouds",
+        "temp": 28.74,
+        "humidity": 69,
+        "visibility": 10000,
+        "wind_speed": 2.81,
+        "clouds": 100
+      },
+      "pitch": {
+        "pitch_condition": "",
+        "batting_condition": "Average",
+        "pace_bowling_condition": "Average",
+        "spine_bowling_condition": "Average"
+      },
+      "toss": {
+        "text": "India elected to bat",
+        "winner": 25,
+        "decision": 1
+      }
+    },
+    "match-playing11": {
+      "teama": {
+        "team_id": 17,
+        "squads": [
+          {
+            "player_id": "50088",
+            "substitute": "false",
+            "out": "false",
+            "in": "false",
+            "role_str": "",
+            "role": "all",
+            "playing11": "true",
+            "name": "Kyle Mayers"
+          },
+          {
+            "player_id": "53754",
+            "substitute": "false",
+            "out": "false",
+            "in": "false",
+            "role_str": "",
+            "role": "bat",
+            "playing11": "true",
+            "name": "Brandon King"
+          },
+          {
+            "player_id": "46943",
+            "substitute": "false",
+            "out": "false",
+            "in": "false",
+            "role_str": "",
+            "role": "wk",
+            "playing11": "true",
+            "name": "Shai Hope"
+          }
+        ]
+      },
+      "teamb": {
+        "team_id": 25,
+        "squads": [
+          {
+            "player_id": "94184",
+            "substitute": "false",
+            "out": "false",
+            "in": "false",
+            "role_str": "",
+            "role": "bat",
+            "playing11": "true",
+            "name": "Yashasvi Jaiswal"
+          },
+          {
+            "player_id": "90739",
+            "substitute": "false",
+            "out": "false",
+            "in": "false",
+            "role_str": "",
+            "role": "bat",
+            "playing11": "true",
+            "name": "Shubman Gill"
+          },
+          {
+            "player_id": "598",
+            "substitute": "false",
+            "out": "false",
+            "in": "false",
+            "role_str": "",
+            "role": "bat",
+            "playing11": "true",
+            "name": "Suryakumar Yadav"
+          }
+        ]
+      }
+    },
+    "match_notes": [
+      [
+        "India inning 1",
+        "Powerplay 1 (0.1 - 6) Run 51, wicket 2",
+        "India: 50 runs in 5.6 overs."
+      ],
+      [
+        "West Indies inning 2",
+        "Powerplay 1 (0.1 - 6) Run 61, wicket 1",
+        "West Indies: 50 runs in 5.1 overs."
+      ]
+    ],
+    "man_of_the_match": {
+      "pid": 93031,
+      "name": "Romario Shepherd",
+      "thumb_url": ""
+    },
+    "man_of_the_series": [],
+    "scorecard": {
+      "innings": [
+        {
+          "iid": 142588,
+          "number": 1,
+          "name": "India Inning",
+          "short_name": "IND Inning",
+          "status": 2,
+          "issuperover": "false",
+          "result": 4,
+          "batting_team_id": 25,
+          "fielding_team_id": 17,
+          "scores": "165/9",
+          "scores_full": "165/9 (20 ov)",
+          "batsmen": [
+            {
+              "name": "Yashasvi Jaiswal",
+              "batsman_id": "94184",
+              "batting": "false",
+              "position": "",
+              "role": "bat",
+              "role_str": "",
+              "runs": "5",
+              "balls_faced": "4",
+              "fours": "1",
+              "sixes": "0",
+              "run0": "2",
+              "how_out": "c & b AJ Hosein",
+              "dismissal": "caught",
+              "strike_rate": "125.00",
+              "bowler_id": "50076",
+              "first_fielder_id": "50076",
+              "second_fielder_id": "",
+              "third_fielder_id": ""
+            },
+            {
+              "name": "Shubman Gill",
+              "batsman_id": "90739",
+              "batting": "false",
+              "position": "",
+              "role": "bat",
+              "role_str": "",
+              "runs": "9",
+              "balls_faced": "9",
+              "fours": "1",
+              "sixes": "0",
+              "run0": "4",
+              "how_out": "lbw b AJ Hosein",
+              "dismissal": "lbw",
+              "strike_rate": "100.00",
+              "bowler_id": "50076",
+              "first_fielder_id": "",
+              "second_fielder_id": "",
+              "third_fielder_id": ""
+            },
+            {
+              "name": "Suryakumar Yadav",
+              "batsman_id": "598",
+              "batting": "false",
+              "position": "",
+              "role": "bat",
+              "role_str": "",
+              "runs": "61",
+              "balls_faced": "45",
+              "fours": "4",
+              "sixes": "3",
+              "run0": "12",
+              "how_out": "lbw b J Holder",
+              "dismissal": "lbw",
+              "strike_rate": "135.56",
+              "bowler_id": "271",
+              "first_fielder_id": "",
+              "second_fielder_id": "",
+              "third_fielder_id": ""
+            }
+          ],
+          "bowlers": [
+            {
+              "name": "Akeal Hosein",
+              "bowler_id": "50076",
+              "bowling": "false",
+              "position": "",
+              "overs": "4",
+              "maidens": "0",
+              "runs_conceded": "24",
+              "wickets": "2",
+              "noballs": "0",
+              "wides": "0",
+              "econ": "6.00",
+              "run0": "12"
+            },
+            {
+              "name": "Kyle Mayers",
+              "bowler_id": "50088",
+              "bowling": "false",
+              "position": "",
+              "overs": "1",
+              "maidens": "0",
+              "runs_conceded": "4",
+              "wickets": "0",
+              "noballs": "0",
+              "wides": "0",
+              "econ": "4.00",
+              "run0": "2"
+            },
+            {
+              "name": "Jason Holder",
+              "bowler_id": "271",
+              "bowling": "true",
+              "position": "active bowler",
+              "overs": "4",
+              "maidens": "0",
+              "runs_conceded": "36",
+              "wickets": "2",
+              "noballs": "0",
+              "wides": "3",
+              "econ": "9.00",
+              "run0": "11"
+            }
+          ],
+          "fielder": [
+            {
+              "fielder_id": "50076",
+              "fielder_name": "Akeal Hosein",
+              "catches": 1,
+              "stumping": 0,
+              "is_substitute": "false"
+            },
+            {
+              "fielder_id": "53712",
+              "fielder_name": "Roston Chase",
+              "catches": 1,
+              "stumping": 0,
+              "is_substitute": "false"
+            },
+            {
+              "fielder_id": "53715",
+              "fielder_name": "Nicholas Pooran",
+              "catches": 1,
+              "stumping": 0,
+              "is_substitute": "false"
+            }
+          ],
+          "powerplay": {
+            "p1": {
+              "startover": "0.1",
+              "endover": "6"
+            }
+          },
+          "fows": [
+            {
+              "name": "Yashasvi Jaiswal",
+              "batsman_id": "94184",
+              "runs": "5",
+              "balls": "4",
+              "how_out": "c & b AJ Hosein",
+              "score_at_dismissal": 6,
+              "overs_at_dismissal": "0.5",
+              "bowler_id": "50076",
+              "dismissal": "caught",
+              "number": 1
+            },
+            {
+              "name": "Shubman Gill",
+              "batsman_id": "90739",
+              "runs": "9",
+              "balls": "9",
+              "how_out": "lbw b AJ Hosein",
+              "score_at_dismissal": 17,
+              "overs_at_dismissal": "2.5",
+              "bowler_id": "50076",
+              "dismissal": "lbw",
+              "number": 2
+            },
+            {
+              "name": "Tilak Varma",
+              "batsman_id": "94429",
+              "runs": "27",
+              "balls": "18",
+              "how_out": "c & b RL Chase",
+              "score_at_dismissal": 66,
+              "overs_at_dismissal": "7.5",
+              "bowler_id": "53712",
+              "dismissal": "caught",
+              "number": 3
+            }
+          ],
+          "last_wicket": {
+            "name": "Axar Patel",
+            "batsman_id": "634",
+            "runs": "13",
+            "balls": "10",
+            "how_out": "c R Shepherd b J Holder",
+            "score_at_dismissal": 161,
+            "overs_at_dismissal": "19.5",
+            "bowler_id": "271",
+            "dismissal": "caught",
+            "number": 9
+          },
+          "extra_runs": {
+            "byes": 4,
+            "legbyes": 0,
+            "wides": 7,
+            "noballs": 0,
+            "penalty": "0",
+            "total": 11
+          },
+          "equations": {
+            "runs": 165,
+            "wickets": 9,
+            "overs": "20",
+            "bowlers_used": 6,
+            "runrate": "8.25"
+          },
+          "current_partnership": {
+            "runs": 4,
+            "balls": 1,
+            "overs": 0.1,
+            "batsmen": [
+              {
+                "name": "Mukesh Kumar",
+                "batsman_id": 90493,
+                "runs": 4,
+                "balls": 1
+              },
+              {
+                "name": "Yuzvendra Chahal",
+                "batsman_id": 654,
+                "runs": 0,
+                "balls": 0
+              }
+            ]
+          },
+          "did_not_bat": [],
+          "max_over": "20",
+          "review": {
+            "batting": {
+              "batting_team_total_review": "2",
+              "batting_team_review_success": "0",
+              "batting_team_review_failed": "1",
+              "batting_team_review_available": "1",
+              "batting_team_review_retained": "0"
+            },
+            "bowling": {
+              "bowling_team_total_review": "2",
+              "bowling_team_review_success": "1",
+              "bowling_team_review_failed": "1",
+              "bowling_team_review_available": "1",
+              "bowling_team_review_retained": "0"
+            }
+          }
+        },
+        {
+          "iid": 142596,
+          "number": 2,
+          "name": "West Indies Inning",
+          "short_name": "WI Inning",
+          "status": 2,
+          "issuperover": "false",
+          "result": 3,
+          "batting_team_id": 17,
+          "fielding_team_id": 25,
+          "scores": "171/2",
+          "scores_full": "171/2 (18 ov)",
+          "batsmen": [
+            {
+              "name": "Brandon King",
+              "batsman_id": "53754",
+              "batting": "true",
+              "position": "non striker",
+              "role": "bat",
+              "role_str": "",
+              "runs": "85",
+              "balls_faced": "55",
+              "fours": "5",
+              "sixes": "6",
+              "run0": "20",
+              "how_out": "Not out",
+              "dismissal": "",
+              "strike_rate": "154.55",
+              "bowler_id": "0",
+              "first_fielder_id": "",
+              "second_fielder_id": "",
+              "third_fielder_id": ""
+            },
+            {
+              "name": "Kyle Mayers",
+              "batsman_id": "50088",
+              "batting": "false",
+              "position": "",
+              "role": "all",
+              "role_str": "",
+              "runs": "10",
+              "balls_faced": "5",
+              "fours": "1",
+              "sixes": "1",
+              "run0": "3",
+              "how_out": "c Y Jaiswal b A Singh",
+              "dismissal": "caught",
+              "strike_rate": "200.00",
+              "bowler_id": "93497",
+              "first_fielder_id": "94184",
+              "second_fielder_id": "",
+              "third_fielder_id": ""
+            },
+            {
+              "name": "Nicholas Pooran",
+              "batsman_id": "53715",
+              "batting": "false",
+              "position": "",
+              "role": "wk",
+              "role_str": "(WK)",
+              "runs": "47",
+              "balls_faced": "35",
+              "fours": "1",
+              "sixes": "4",
+              "run0": "13",
+              "how_out": "c H Pandya b T Varma",
+              "dismissal": "caught",
+              "strike_rate": "134.29",
+              "bowler_id": "94429",
+              "first_fielder_id": "727",
+              "second_fielder_id": "",
+              "third_fielder_id": ""
+            }
+          ],
+          "bowlers": [
+            {
+              "name": "Hardik Pandya",
+              "bowler_id": "727",
+              "bowling": "false",
+              "position": "",
+              "overs": "3",
+              "maidens": "0",
+              "runs_conceded": "32",
+              "wickets": "0",
+              "noballs": "0",
+              "wides": "0",
+              "econ": "10.67",
+              "run0": "8"
+            },
+            {
+              "name": "Arshdeep Singh",
+              "bowler_id": "93497",
+              "bowling": "false",
+              "position": "",
+              "overs": "2",
+              "maidens": "0",
+              "runs_conceded": "20",
+              "wickets": "1",
+              "noballs": "0",
+              "wides": "0",
+              "econ": "10.00",
+              "run0": "6"
+            },
+            {
+              "name": "Kuldeep Yadav",
+              "bowler_id": "775",
+              "bowling": "false",
+              "position": "",
+              "overs": "4",
+              "maidens": "0",
+              "runs_conceded": "18",
+              "wickets": "0",
+              "noballs": "0",
+              "wides": "2",
+              "econ": "4.50",
+              "run0": "12"
+            }
+          ],
+          "fielder": [
+            {
+              "fielder_id": "94184",
+              "fielder_name": "Yashasvi Jaiswal",
+              "catches": 1,
+              "stumping": 0,
+              "is_substitute": "false"
+            },
+            {
+              "fielder_id": "727",
+              "fielder_name": "Hardik Pandya",
+              "catches": 1,
+              "stumping": 0,
+              "is_substitute": "false"
+            }
+          ],
+          "powerplay": {
+            "p1": {
+              "startover": "0.1",
+              "endover": "6"
+            }
+          },
+          "fows": [
+            {
+              "name": "Kyle Mayers",
+              "batsman_id": "50088",
+              "runs": "10",
+              "balls": "5",
+              "how_out": "c Y Jaiswal b A Singh",
+              "score_at_dismissal": 12,
+              "overs_at_dismissal": "1.2",
+              "bowler_id": "93497",
+              "dismissal": "caught",
+              "number": 1
+            },
+            {
+              "name": "Nicholas Pooran",
+              "batsman_id": "53715",
+              "runs": "47",
+              "balls": "35",
+              "how_out": "c H Pandya b T Varma",
+              "score_at_dismissal": 119,
+              "overs_at_dismissal": "13.2",
+              "bowler_id": "94429",
+              "dismissal": "caught",
+              "number": 2
+            }
+          ],
+          "last_wicket": {
+            "name": "Nicholas Pooran",
+            "batsman_id": "53715",
+            "runs": "47",
+            "balls": "35",
+            "how_out": "c H Pandya b T Varma",
+            "score_at_dismissal": 119,
+            "overs_at_dismissal": "13.2",
+            "bowler_id": "94429",
+            "dismissal": "caught",
+            "number": 2
+          },
+          "extra_runs": {
+            "byes": 0,
+            "legbyes": 4,
+            "wides": 3,
+            "noballs": 0,
+            "penalty": "0",
+            "total": 7
+          },
+          "equations": {
+            "runs": 171,
+            "wickets": 2,
+            "overs": "18",
+            "bowlers_used": 8,
+            "runrate": "9.50"
+          },
+          "current_partnership": {
+            "runs": 52,
+            "balls": 28,
+            "overs": 4.4,
+            "batsmen": [
+              {
+                "name": "Shai Hope",
+                "batsman_id": 46943,
+                "runs": 22,
+                "balls": 13
+              },
+              {
+                "name": "Brandon King",
+                "batsman_id": 53754,
+                "runs": 30,
+                "balls": 15
+              }
+            ]
+          },
+          "did_not_bat": [
+            {
+              "player_id": "1204",
+              "name": "Shimron Hetmyer"
+            },
+            {
+              "player_id": "55467",
+              "name": "Rovman Powell"
+            },
+            {
+              "player_id": "271",
+              "name": "Jason Holder"
+            }
+          ],
+          "max_over": "20",
+          "review": {
+            "batting": {
+              "batting_team_total_review": "2",
+              "batting_team_review_success": "1",
+              "batting_team_review_failed": "0",
+              "batting_team_review_available": "2",
+              "batting_team_review_retained": "0"
+            },
+            "bowling": {
+              "bowling_team_total_review": "2",
+              "bowling_team_review_success": "1",
+              "bowling_team_review_failed": "0",
+              "bowling_team_review_available": "2",
+              "bowling_team_review_retained": "0"
+            }
+          }
+        }
+      ],
+      "is_followon": 0,
+      "day_remaining_over": ""
+    },
+    "live": {
+      "mid": 63704,
+      "status": 2,
+      "status_str": "Completed",
+      "game_state": 0,
+      "game_state_str": "Default",
+      "status_note": "West Indies won by 8 wickets",
+      "team_batting": "West Indies",
+      "team_bowling": "India",
+      "live_inning_number": 2,
+      "live_score": {
+        "runs": 171,
+        "overs": 18,
+        "wickets": 2,
+        "target": 166,
+        "runrate": 9.5,
+        "required_runrate": ""
+      },
+      "batsmen": [
+        {
+          "name": "Brandon King",
+          "batsman_id": 53754,
+          "runs": 85,
+          "balls_faced": 55,
+          "fours": 5,
+          "sixes": 6,
+          "strike_rate": "154.55"
+        },
+        {
+          "name": "Shai Hope",
+          "batsman_id": 46943,
+          "runs": 22,
+          "balls_faced": 13,
+          "fours": 1,
+          "sixes": 1,
+          "strike_rate": "169.23"
+        }
+      ],
+      "bowlers": [
+        {
+          "name": "Yashasvi Jaiswal",
+          "bowler_id": 94184,
+          "overs": 1,
+          "runs_conceded": 11,
+          "wickets": 0,
+          "maidens": 0,
+          "econ": "11.00"
+        },
+        {
+          "name": "Tilak Varma",
+          "bowler_id": 94429,
+          "overs": 2,
+          "runs_conceded": 17,
+          "wickets": 1,
+          "maidens": 0,
+          "econ": "8.50"
+        }
+      ],
+      "commentaries": [
+        {
+          "event": "overend",
+          "over": 15,
+          "runs": 8,
+          "score": "132/2",
+          "bats": [
+            {
+              "runs": 11,
+              "balls_faced": 8,
+              "fours": 1,
+              "sixes": 0,
+              "batsman_id": 46943
+            },
+            {
+              "runs": 57,
+              "balls_faced": 42,
+              "fours": 4,
+              "sixes": 3,
+              "batsman_id": 53754
+            }
+          ],
+          "bowls": [
+            {
+              "runs_conceded": 8,
+              "maidens": 0,
+              "wickets": 0,
+              "bowler_id": 634,
+              "overs": 1
+            },
+            {
+              "runs_conceded": 5,
+              "maidens": 0,
+              "wickets": 1,
+              "bowler_id": 94429,
+              "overs": 1
+            }
+          ],
+          "commentary": "End of over 15 (8 runs), West Indies 132/2"
+        },
+        {
+          "event_id": "3684444",
+          "event": "ball",
+          "batsman_id": "53754",
+          "bowler_id": "654",
+          "over": "15",
+          "ball": "1",
+          "score": 0,
+          "commentary": "Yuzvendra Chahal to Brandon King, no run, Dot ball !! googly,  full length,  on the stumps,  Brandon King hangs in the crease and slash flick shot towards short mid wicket,  but the fielder reacts promptly and blocks it right away.",
+          "noball_dismissal": false,
+          "text": "Dot ball !! googly,  full length,  on the stumps,  Brandon King hangs in the crease and slash flick shot towards short mid wicket,  but the fielder reacts promptly and blocks it right away.",
+          "timestamp": 1691952531,
+          "run": 0,
+          "noball_run": "0",
+          "wide_run": "0",
+          "bye_run": "0",
+          "legbye_run": "0",
+          "bat_run": "0",
+          "odds": null,
+          "xball": 1
+        },
+        {
+          "event_id": "3684450",
+          "event": "ball",
+          "batsman_id": "53754",
+          "bowler_id": "654",
+          "over": "15",
+          "ball": "2",
+          "score": 2,
+          "commentary": "Yuzvendra Chahal to Brandon King, 2 runs, Brandon King goes back to take legbreak of full length aimed on the off stump,  executing a confident cut that sent the ball sailing towards deep point for 2 runs.",
+          "noball_dismissal": false,
+          "text": "Brandon King goes back to take legbreak of full length aimed on the off stump,  executing a confident cut that sent the ball sailing towards deep point for 2 runs.",
+          "timestamp": 1691952556,
+          "run": 2,
+          "noball_run": "0",
+          "wide_run": "0",
+          "bye_run": "0",
+          "legbye_run": "0",
+          "bat_run": "2",
+          "odds": null,
+          "xball": 2
+        }
+      ],
+      "live_inning": {
+        "iid": 142596,
+        "number": 2,
+        "name": "West Indies Inning",
+        "short_name": "WI Inning",
+        "status": 2,
+        "issuperover": "false",
+        "result": 3,
+        "batting_team_id": 17,
+        "fielding_team_id": 25,
+        "scores": "171/2",
+        "scores_full": "171/2 (18 ov)",
+        "fielder": [
+          {
+            "fielder_id": "94184",
+            "fielder_name": "Yashasvi Jaiswal",
+            "catches": 1,
+            "stumping": 0,
+            "is_substitute": "false"
+          },
+          {
+            "fielder_id": "727",
+            "fielder_name": "Hardik Pandya",
+            "catches": 1,
+            "stumping": 0,
+            "is_substitute": "false"
+          }
+        ],
+        "powerplay": {
+          "p1": {
+            "startover": "0.1",
+            "endover": "6"
+          }
+        },
+        "last_wicket": {
+          "name": "Nicholas Pooran",
+          "batsman_id": "53715",
+          "runs": "47",
+          "balls": "35",
+          "how_out": "c H Pandya b T Varma",
+          "score_at_dismissal": 119,
+          "overs_at_dismissal": "13.2",
+          "bowler_id": "94429",
+          "dismissal": "caught",
+          "number": 2
+        },
+        "extra_runs": {
+          "byes": 0,
+          "legbyes": 4,
+          "wides": 3,
+          "noballs": 0,
+          "penalty": "0",
+          "total": 7
+        },
+        "equations": {
+          "runs": 171,
+          "wickets": 2,
+          "overs": "18",
+          "bowlers_used": 8,
+          "runrate": "9.50"
+        },
+        "current_partnership": {
+          "runs": 52,
+          "balls": 28,
+          "overs": 4.4,
+          "batsmen": [
+            {
+              "name": "Shai Hope",
+              "batsman_id": 46943,
+              "runs": 22,
+              "balls": 13
+            },
+            {
+              "name": "Brandon King",
+              "batsman_id": 53754,
+              "runs": 30,
+              "balls": 15
+            }
+          ]
+        },
+        "did_not_bat": [
+          {
+            "player_id": "1204",
+            "name": "Shimron Hetmyer"
+          },
+          {
+            "player_id": "55467",
+            "name": "Rovman Powell"
+          },
+          {
+            "player_id": "271",
+            "name": "Jason Holder"
+          }
+        ],
+        "max_over": "20",
+        "review": {
+          "batting": {
+            "batting_team_total_review": "2",
+            "batting_team_review_success": "1",
+            "batting_team_review_failed": "0",
+            "batting_team_review_available": "2",
+            "batting_team_review_retained": "0"
+          },
+          "bowling": {
+            "bowling_team_total_review": "2",
+            "bowling_team_review_success": "1",
+            "bowling_team_review_failed": "0",
+            "bowling_team_review_available": "2",
+            "bowling_team_review_retained": "0"
+          }
+        },
+        "recent_scores": "6,1,0,1,2,1,1,0,6,4,0,1,6,6,1,1,2,0",
+        "last_five_overs": "52/1 10.40",
+        "last_ten_overs": "90/1 8.71"
+      }
+    },
+    "live_odds": [],
+    "session_odds": [],
+    "featured_session": [],
+    "players": [
+      {
+        "pid": 271,
+        "title": "Jason Holder",
+        "short_name": "J Holder",
+        "first_name": "Jason Holder",
+        "last_name": "",
+        "middle_name": "",
+        "birthdate": "1991-11-05",
+        "birthplace": "Barbados",
+        "country": "wi",
+        "logo_url": "",
+        "playing_role": "all",
+        "batting_style": "Right Hand Bat",
+        "bowling_style": "Right Arm Medium Fast",
+        "fielding_position": "",
+        "facebook_profile": "https://www.facebook.com/jasonholder.official/",
+        "twitter_profile": "https://twitter.com/Jaseholder98",
+        "instagram_profile": "https://www.instagram.com/jaseholder98/",
+        "nationality": "West Indies"
+      },
+      {
+        "pid": 482,
+        "title": "Johnson Charles",
+        "short_name": "J Charles",
+        "first_name": "Johnson Charles",
+        "last_name": "",
+        "middle_name": "",
+        "birthdate": "1989-01-14",
+        "birthplace": "St Lucia",
+        "country": "wi",
+        "logo_url": "",
+        "playing_role": "wk",
+        "batting_style": "Right Hand Bat",
+        "bowling_style": "",
+        "fielding_position": "Wicketkeeper",
+        "facebook_profile": "",
+        "twitter_profile": "",
+        "instagram_profile": "https://www.instagram.com/realjcharles/",
+        "nationality": "West Indies"
+      },
+      {
+        "pid": 598,
+        "title": "Suryakumar Yadav",
+        "short_name": "S Yadav",
+        "first_name": "Suryakumar Yadav",
+        "last_name": "",
+        "middle_name": "",
+        "birthdate": "1990-09-14",
+        "birthplace": "Mumbai, Maharashtra",
+        "country": "in",
+        "logo_url": "",
+        "playing_role": "bat",
+        "batting_style": "Right Hand Bat",
+        "bowling_style": "Right Arm Off Break",
+        "fielding_position": "",
+        "facebook_profile": "https://www.facebook.com/suryakumaryadavskyy/",
+        "twitter_profile": "https://mobile.twitter.com/surya_14kumar",
+        "instagram_profile": "https://www.instagram.com/surya_14kumar",
+        "nationality": "India"
+      }
+    ]
+  },
+  "etag": "cd89c3732d346d423caad22cb3301629",
+  "modified": "2023-08-14 06:34:56",
+  "datetime": "2024-09-10 08:43:50",
+  "api_version": "1.0"
+}

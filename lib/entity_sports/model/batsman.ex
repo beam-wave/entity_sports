@@ -1,80 +1,31 @@
 defmodule EntitySports.Model.Batsman do
   @moduledoc """
-  Batsman model
+  Scorecard batsman model
   """
-  use Ecto.Schema
-  import Ecto.Changeset
+  use EntitySports.Schema
 
-  @type t :: %__MODULE__{}
-
-  @derive Jason.Encoder
-  @primary_key false
   embedded_schema do
-    # 	batsman name
     field(:name, :string)
-    # 	batsman id
-    field(:batsman_id, :string)
-    # 	If batting then true,
+    field(:batsman_id, :integer)
     field(:batting, :string)
-    # 	batting position
     field(:position, :string)
-    # 	batsman role
     field(:role, :string)
-    # 	role short description
     field(:role_str, :string)
-    # 	batsman runs scored
-    field(:runs, :string)
-    # 	balls faced by batsman
-    field(:balls_faced, :string)
-    # 	four run scored by batsman
-    field(:fours, :string)
-    # 	four run scored by batsman
-    field(:sixes, :string)
-    # 	dot ball played by batsman
-    field(:run0, :string)
-    # 	batsman dismissal details
+    field(:runs, :integer)
+    field(:balls_faced, :integer)
+    field(:fours, :integer)
+    field(:sixes, :integer)
+    field(:run0, :integer)
+    field(:run1, :integer)
+    field(:run2, :integer)
+    field(:run3, :integer)
+    field(:run5, :integer)
     field(:how_out, :string)
-    # 	dismissal type
     field(:dismissal, :string)
-    # 	strike rate of batsman
-    field(:strike_rate, :string)
-    # 	bowler id
+    field(:strike_rate, Number)
     field(:bowler_id, :string)
-    # 	first fielder id
     field(:first_fielder_id, :string)
-    # 	seconde fielder id
     field(:second_fielder_id, :string)
-    # 	third fielder id
     field(:third_fielder_id, :string)
-  end
-
-  @fields [
-    :name,
-    :batsman_id,
-    :batting,
-    :position,
-    :role,
-    :role_str,
-    :runs,
-    :balls_faced,
-    :fours,
-    :sixes,
-    :run0,
-    :how_out,
-    :dismissal,
-    :strike_rate,
-    :bowler_id,
-    :first_fielder_id,
-    :second_fielder_id,
-    :third_fielder_id
-  ]
-
-  def changeset(params) do
-    changeset(%__MODULE__{}, params)
-  end
-
-  def changeset(struct, params) do
-    struct
-    |> cast(params, @fields)
   end
 end

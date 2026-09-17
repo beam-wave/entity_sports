@@ -1,0 +1,28 @@
+{
+  "status": "ok",
+  "response": {
+    "items": [
+      {
+        "sid": "2015",
+        "name": "2015",
+        "competitions_url": "seasons/2015/competitions"
+      },
+      {
+        "sid": "201617",
+        "name": "2016-17",
+        "competitions_url": "seasons/201617/competitions"
+      },
+      {
+        "sid": "2017",
+        "name": "2017",
+        "competitions_url": "seasons/2017/competitions"
+      }
+    ],
+    "total_items": 9,
+    "total_pages": 1
+  },
+  "etag": "bef4e8d1e7d70504cc239c409ac90329",
+  "modified": "2023-06-29 11:09:57",
+  "datetime": "2023-06-29 11:09:57",
+  "api_version": "3.0"
+}

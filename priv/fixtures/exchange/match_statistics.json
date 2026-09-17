@@ -1,0 +1,942 @@
+{
+  "status": "ok",
+  "response": {
+    "is_followon": 1,
+    "innings": [
+      {
+        "inning_id": 200054,
+        "number": 1,
+        "name": "India 1st Inning",
+        "runs": 358,
+        "overs": "114.1",
+        "wickets": 10,
+        "status": 2,
+        "result": 1,
+        "batting_team_id": 25,
+        "fielding_team_id": 490,
+        "fows": [
+          {
+            "batsman_id": 661,
+            "runs": 46,
+            "balls_faced": 98,
+            "how_out": "c Z Crawley b C Woakes",
+            "score_at_dismissal": 94,
+            "overs_at_dismissal": 29.6,
+            "order": 1
+          },
+          {
+            "batsman_id": 94184,
+            "runs": 58,
+            "balls_faced": 107,
+            "how_out": "c H Brook b L Dawson",
+            "score_at_dismissal": 120,
+            "overs_at_dismissal": 40.1,
+            "order": 2
+          },
+          {
+            "batsman_id": 90739,
+            "runs": 12,
+            "balls_faced": 23,
+            "how_out": "lbw b B Stokes",
+            "score_at_dismissal": 140,
+            "overs_at_dismissal": 49.1,
+            "order": 3
+          }
+        ],
+        "statistics": {
+          "manhattan": [
+            {
+              "over": 1,
+              "runs": 4
+            },
+            {
+              "over": 2,
+              "runs": 1
+            },
+            {
+              "over": 3,
+              "runs": 5
+            }
+          ],
+          "worm": [
+            {
+              "over": 1,
+              "runs": 4
+            },
+            {
+              "over": 2,
+              "runs": 5
+            },
+            {
+              "over": 3,
+              "runs": 10
+            }
+          ],
+          "runrates": [
+            {
+              "over": 1,
+              "runrate": 4
+            },
+            {
+              "over": 2,
+              "runrate": 2.5
+            },
+            {
+              "over": 3,
+              "runrate": 3.33
+            }
+          ],
+          "partnership": [
+            {
+              "batsmen": [
+                {
+                  "batsman_id": 94184,
+                  "balls_faced": 83,
+                  "runs": 45,
+                  "fours": 8,
+                  "sixes": 1
+                },
+                {
+                  "batsman_id": 661,
+                  "balls_faced": 98,
+                  "runs": 46,
+                  "fours": 4,
+                  "sixes": 0
+                }
+              ],
+              "balls_faced": 181,
+              "runs": 94,
+              "order": 1
+            },
+            {
+              "batsmen": [
+                {
+                  "batsman_id": 94184,
+                  "balls_faced": 24,
+                  "runs": 13,
+                  "fours": 2,
+                  "sixes": 0
+                },
+                {
+                  "batsman_id": 93855,
+                  "balls_faced": 37,
+                  "runs": 13,
+                  "fours": 1,
+                  "sixes": 0
+                }
+              ],
+              "balls_faced": 61,
+              "runs": 26,
+              "order": 2
+            },
+            {
+              "batsmen": [
+                {
+                  "batsman_id": 93855,
+                  "balls_faced": 31,
+                  "runs": 7,
+                  "fours": 1,
+                  "sixes": 0
+                },
+                {
+                  "batsman_id": 90739,
+                  "balls_faced": 23,
+                  "runs": 12,
+                  "fours": 1,
+                  "sixes": 0
+                }
+              ],
+              "balls_faced": 54,
+              "runs": 20,
+              "order": 3
+            }
+          ],
+          "runtypes": [
+            {
+              "key": "run0",
+              "name": "Dots",
+              "value": 513
+            },
+            {
+              "key": "run1",
+              "name": "Singles",
+              "value": 113
+            },
+            {
+              "key": "run2",
+              "name": "Doubles",
+              "value": 20
+            }
+          ],
+          "wickets": [
+            {
+              "key": "bowled",
+              "name": "Bowled",
+              "value": 1
+            },
+            {
+              "key": "caught",
+              "name": "Caught",
+              "value": 8
+            },
+            {
+              "key": "lbw",
+              "name": "LBW",
+              "value": 1
+            }
+          ],
+          "p2p": [
+            {
+              "batsman_id": "94184",
+              "bowler_id": "107",
+              "balls": "41",
+              "runs": "17",
+              "run0": "36",
+              "run1": "1",
+              "run2": "0",
+              "run3": "0",
+              "run4": "4",
+              "run5": "0",
+              "run6": "0",
+              "run6p": "0"
+            },
+            {
+              "batsman_id": "661",
+              "bowler_id": "57877",
+              "balls": "36",
+              "runs": "8",
+              "run0": "31",
+              "run1": "3",
+              "run2": "1",
+              "run3": "1",
+              "run4": "0",
+              "run5": "0",
+              "run6": "0",
+              "run6p": "0"
+            },
+            {
+              "batsman_id": "94184",
+              "bowler_id": "57877",
+              "balls": "12",
+              "runs": "6",
+              "run0": "9",
+              "run1": "2",
+              "run2": "0",
+              "run3": "0",
+              "run4": "1",
+              "run5": "0",
+              "run6": "0",
+              "run6p": "0"
+            }
+          ],
+          "extras": [
+            {
+              "key": "runwides",
+              "name": "Wides",
+              "value": 14
+            },
+            {
+              "key": "runnoballs",
+              "name": "No Balls",
+              "value": 4
+            },
+            {
+              "key": "runbyes",
+              "name": "Bye",
+              "value": 4
+            }
+          ]
+        }
+      },
+      {
+        "inning_id": 200122,
+        "number": 2,
+        "name": "England 1st Inning",
+        "runs": 669,
+        "overs": "157.1",
+        "wickets": 10,
+        "status": 2,
+        "result": 1,
+        "batting_team_id": 490,
+        "fielding_team_id": 25,
+        "fows": [
+          {
+            "batsman_id": 50774,
+            "runs": 84,
+            "balls_faced": 113,
+            "how_out": "c KL Rahul b R Jadeja",
+            "score_at_dismissal": 166,
+            "overs_at_dismissal": 31.6,
+            "order": 1
+          },
+          {
+            "batsman_id": 49378,
+            "runs": 94,
+            "balls_faced": 100,
+            "how_out": "c (sub D Jurel) b A Kamboj",
+            "score_at_dismissal": 197,
+            "overs_at_dismissal": 38.1,
+            "order": 2
+          },
+          {
+            "batsman_id": 51290,
+            "runs": 71,
+            "balls_faced": 128,
+            "how_out": "c KL Rahul b W Sundar",
+            "score_at_dismissal": 341,
+            "overs_at_dismissal": 76.1,
+            "order": 3
+          }
+        ],
+        "statistics": {
+          "manhattan": [
+            {
+              "over": 1,
+              "runs": 0
+            },
+            {
+              "over": 2,
+              "runs": 12
+            },
+            {
+              "over": 3,
+              "runs": 0
+            }
+          ],
+          "worm": [
+            {
+              "over": 1,
+              "runs": 0
+            },
+            {
+              "over": 2,
+              "runs": 12
+            },
+            {
+              "over": 3,
+              "runs": 12
+            }
+          ],
+          "runrates": [
+            {
+              "over": 1,
+              "runrate": 0
+            },
+            {
+              "over": 2,
+              "runrate": 6
+            },
+            {
+              "over": 3,
+              "runrate": 4
+            }
+          ],
+          "partnership": [
+            {
+              "batsmen": [
+                {
+                  "batsman_id": 50774,
+                  "balls_faced": 113,
+                  "runs": 84,
+                  "fours": 13,
+                  "sixes": 1
+                },
+                {
+                  "batsman_id": 49378,
+                  "balls_faced": 82,
+                  "runs": 74,
+                  "fours": 10,
+                  "sixes": 0
+                }
+              ],
+              "balls_faced": 195,
+              "runs": 166,
+              "order": 1
+            },
+            {
+              "batsmen": [
+                {
+                  "batsman_id": 49378,
+                  "balls_faced": 18,
+                  "runs": 20,
+                  "fours": 3,
+                  "sixes": 0
+                },
+                {
+                  "batsman_id": 51290,
+                  "balls_faced": 20,
+                  "runs": 10,
+                  "fours": 1,
+                  "sixes": 0
+                }
+              ],
+              "balls_faced": 38,
+              "runs": 31,
+              "order": 2
+            },
+            {
+              "batsmen": [
+                {
+                  "batsman_id": 51290,
+                  "balls_faced": 108,
+                  "runs": 61,
+                  "fours": 6,
+                  "sixes": 0
+                },
+                {
+                  "batsman_id": 99,
+                  "balls_faced": 123,
+                  "runs": 71,
+                  "fours": 9,
+                  "sixes": 0
+                }
+              ],
+              "balls_faced": 231,
+              "runs": 144,
+              "order": 3
+            }
+          ],
+          "runtypes": [
+            {
+              "key": "run0",
+              "name": "Dots",
+              "value": 613
+            },
+            {
+              "key": "run1",
+              "name": "Singles",
+              "value": 224
+            },
+            {
+              "key": "run2",
+              "name": "Doubles",
+              "value": 39
+            }
+          ],
+          "wickets": [
+            {
+              "key": "bowled",
+              "name": "Bowled",
+              "value": 2
+            },
+            {
+              "key": "caught",
+              "name": "Caught",
+              "value": 6
+            },
+            {
+              "key": "lbw",
+              "name": "LBW",
+              "value": 0
+            }
+          ],
+          "p2p": [
+            {
+              "batsman_id": "50774",
+              "bowler_id": "607",
+              "balls": "37",
+              "runs": "12",
+              "run0": "31",
+              "run1": "4",
+              "run2": "0",
+              "run3": "0",
+              "run4": "1",
+              "run5": "0",
+              "run6": "0",
+              "run6p": "0"
+            },
+            {
+              "batsman_id": "49378",
+              "bowler_id": "94571",
+              "balls": "30",
+              "runs": "26",
+              "run0": "18",
+              "run1": "6",
+              "run2": "2",
+              "run3": "0",
+              "run4": "4",
+              "run5": "0",
+              "run6": "0",
+              "run6p": "0"
+            },
+            {
+              "batsman_id": "50774",
+              "bowler_id": "94571",
+              "balls": "5",
+              "runs": "3",
+              "run0": "2",
+              "run1": "3",
+              "run2": "0",
+              "run3": "0",
+              "run4": "0",
+              "run5": "0",
+              "run6": "0",
+              "run6p": "0"
+            }
+          ],
+          "extras": [
+            {
+              "key": "runwides",
+              "name": "Wides",
+              "value": 1
+            },
+            {
+              "key": "runnoballs",
+              "name": "No Balls",
+              "value": 14
+            },
+            {
+              "key": "runbyes",
+              "name": "Bye",
+              "value": 8
+            }
+          ]
+        }
+      },
+      {
+        "inning_id": 200226,
+        "number": 3,
+        "name": "India 2nd Inning",
+        "runs": 425,
+        "overs": "143",
+        "wickets": 4,
+        "status": 2,
+        "result": 4,
+        "batting_team_id": 25,
+        "fielding_team_id": 490,
+        "fows": [
+          {
+            "batsman_id": 94184,
+            "runs": 0,
+            "balls_faced": 4,
+            "how_out": "c J Root b C Woakes",
+            "score_at_dismissal": 0,
+            "overs_at_dismissal": 0.4,
+            "order": 1
+          },
+          {
+            "batsman_id": 93855,
+            "runs": 0,
+            "balls_faced": 1,
+            "how_out": "c H Brook b C Woakes",
+            "score_at_dismissal": 0,
+            "overs_at_dismissal": 0.5,
+            "order": 2
+          },
+          {
+            "batsman_id": 661,
+            "runs": 90,
+            "balls_faced": 230,
+            "how_out": "lbw b B Stokes",
+            "score_at_dismissal": 188,
+            "overs_at_dismissal": 70.2,
+            "order": 3
+          }
+        ],
+        "statistics": {
+          "manhattan": [
+            {
+              "over": 1,
+              "runs": 0
+            },
+            {
+              "over": 2,
+              "runs": 1
+            },
+            {
+              "over": 3,
+              "runs": 0
+            }
+          ],
+          "worm": [
+            {
+              "over": 1,
+              "runs": 0
+            },
+            {
+              "over": 2,
+              "runs": 1
+            },
+            {
+              "over": 3,
+              "runs": 1
+            }
+          ],
+          "runrates": [
+            {
+              "over": 1,
+              "runrate": 0
+            },
+            {
+              "over": 2,
+              "runrate": 0.5
+            },
+            {
+              "over": 3,
+              "runrate": 0.33
+            }
+          ],
+          "partnership": [
+            {
+              "batsmen": [
+                {
+                  "batsman_id": 94184,
+                  "balls_faced": 4,
+                  "runs": 0,
+                  "fours": 0,
+                  "sixes": 0
+                },
+                {
+                  "batsman_id": 661,
+                  "balls_faced": 0,
+                  "runs": 0,
+                  "fours": 0,
+                  "sixes": 0
+                }
+              ],
+              "balls_faced": 4,
+              "runs": 0,
+              "order": 1
+            },
+            {
+              "batsmen": [
+                {
+                  "batsman_id": 661,
+                  "balls_faced": 0,
+                  "runs": 0,
+                  "fours": 0,
+                  "sixes": 0
+                },
+                {
+                  "batsman_id": 93855,
+                  "balls_faced": 1,
+                  "runs": 0,
+                  "fours": 0,
+                  "sixes": 0
+                }
+              ],
+              "balls_faced": 1,
+              "runs": 0,
+              "order": 2
+            },
+            {
+              "batsmen": [
+                {
+                  "batsman_id": 661,
+                  "balls_faced": 230,
+                  "runs": 90,
+                  "fours": 8,
+                  "sixes": 0
+                },
+                {
+                  "batsman_id": 90739,
+                  "balls_faced": 191,
+                  "runs": 89,
+                  "fours": 11,
+                  "sixes": 0
+                }
+              ],
+              "balls_faced": 421,
+              "runs": 188,
+              "order": 3
+            }
+          ],
+          "runtypes": [
+            {
+              "key": "run0",
+              "name": "Dots",
+              "value": 653
+            },
+            {
+              "key": "run1",
+              "name": "Singles",
+              "value": 125
+            },
+            {
+              "key": "run2",
+              "name": "Doubles",
+              "value": 30
+            }
+          ],
+          "wickets": [
+            {
+              "key": "bowled",
+              "name": "Bowled",
+              "value": 0
+            },
+            {
+              "key": "caught",
+              "name": "Caught",
+              "value": 3
+            },
+            {
+              "key": "lbw",
+              "name": "LBW",
+              "value": 1
+            }
+          ],
+          "p2p": [
+            {
+              "batsman_id": "94184",
+              "bowler_id": "107",
+              "balls": "4",
+              "runs": "0",
+              "run0": "4",
+              "run1": "0",
+              "run2": "0",
+              "run3": "0",
+              "run4": "0",
+              "run5": "0",
+              "run6": "0",
+              "run6p": "0"
+            },
+            {
+              "batsman_id": "93855",
+              "bowler_id": "107",
+              "balls": "1",
+              "runs": "0",
+              "run0": "1",
+              "run1": "0",
+              "run2": "0",
+              "run3": "0",
+              "run4": "0",
+              "run5": "0",
+              "run6": "0",
+              "run6p": "0"
+            },
+            {
+              "batsman_id": "90739",
+              "bowler_id": "107",
+              "balls": "41",
+              "runs": "24",
+              "run0": "30",
+              "run1": "5",
+              "run2": "2",
+              "run3": "1",
+              "run4": "3",
+              "run5": "0",
+              "run6": "0",
+              "run6p": "0"
+            }
+          ],
+          "extras": [
+            {
+              "key": "runwides",
+              "name": "Wides",
+              "value": 2
+            },
+            {
+              "key": "runnoballs",
+              "name": "No Balls",
+              "value": 6
+            },
+            {
+              "key": "runbyes",
+              "name": "Bye",
+              "value": 14
+            }
+          ]
+        }
+      }
+    ],
+    "teams": [
+      {
+        "team_id": 25,
+        "name": "India",
+        "short_name": "IND",
+        "country_iso": "in",
+        "type": "country",
+        "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/IND.webp"
+      },
+      {
+        "team_id": 490,
+        "name": "England",
+        "short_name": "ENG",
+        "country_iso": "en",
+        "type": "country",
+        "logo_url": "https://gcdnimages.entitysport.com/assets/uploads/2025/09/ENG.webp"
+      }
+    ],
+    "players": [
+      {
+        "player_id": 99,
+        "name": "Joe Root",
+        "short_name": "J Root",
+        "country_iso": "en",
+        "logo_url": ""
+      },
+      {
+        "player_id": 107,
+        "name": "Chris Woakes",
+        "short_name": "C Woakes",
+        "country_iso": "en",
+        "logo_url": ""
+      },
+      {
+        "player_id": 125,
+        "name": "Ravindra Jadeja",
+        "short_name": "R Jadeja",
+        "country_iso": "in",
+        "logo_url": ""
+      }
+    ],
+    "venue_stats": {
+      "average_score_for_venue": [
+        {
+          "avgruns": "341",
+          "avgwickets": "10",
+          "inningnumber": "1",
+          "avgstrike": "51.78"
+        },
+        {
+          "avgruns": "308",
+          "avgwickets": "10",
+          "inningnumber": "2",
+          "avgstrike": "52.84"
+        },
+        {
+          "avgruns": "260",
+          "avgwickets": "7",
+          "inningnumber": "3",
+          "avgstrike": "51.56"
+        }
+      ],
+      "highest_total": {
+        "score": "669/10",
+        "overs": "157.1",
+        "wickets": "10"
+      },
+      "lowest_total": {
+        "score": "71/10",
+        "overs": "32.5",
+        "wickets": "10"
+      }
+    },
+    "venue_bowling_report": {
+      "total_wickets": "312",
+      "spin_wickets": "68",
+      "pace_wickets": "244"
+    },
+    "session_progression": {
+      "day1": [
+        {
+          "session": "1",
+          "inning_id": "200054",
+          "batting_team_id": "25",
+          "total_runs": "78",
+          "fall_wickets": "0"
+        },
+        {
+          "session": "2",
+          "inning_id": "200054",
+          "batting_team_id": "25",
+          "total_runs": "71",
+          "fall_wickets": "3"
+        },
+        {
+          "session": "3",
+          "inning_id": "200054",
+          "batting_team_id": "25",
+          "total_runs": "115",
+          "fall_wickets": "1"
+        }
+      ],
+      "day2": [
+        {
+          "session": "1",
+          "inning_id": "200054",
+          "batting_team_id": "25",
+          "total_runs": "57",
+          "fall_wickets": "2"
+        },
+        {
+          "session": "2",
+          "inning_id": "200054",
+          "batting_team_id": "25",
+          "total_runs": "37",
+          "fall_wickets": "4"
+        },
+        {
+          "session": "2",
+          "inning_id": "200122",
+          "batting_team_id": "490",
+          "total_runs": "73",
+          "fall_wickets": "0"
+        }
+      ],
+      "day3": [
+        {
+          "session": "1",
+          "inning_id": "200122",
+          "batting_team_id": "490",
+          "total_runs": "103",
+          "fall_wickets": "0"
+        },
+        {
+          "session": "2",
+          "inning_id": "200122",
+          "batting_team_id": "490",
+          "total_runs": "101",
+          "fall_wickets": "2"
+        },
+        {
+          "session": "3",
+          "inning_id": "200122",
+          "batting_team_id": "490",
+          "total_runs": "111",
+          "fall_wickets": "3"
+        }
+      ],
+      "day4": [
+        {
+          "session": "1",
+          "inning_id": "200122",
+          "batting_team_id": "490",
+          "total_runs": "129",
+          "fall_wickets": "3"
+        },
+        {
+          "session": "1",
+          "inning_id": "200226",
+          "batting_team_id": "25",
+          "total_runs": "1",
+          "fall_wickets": "2"
+        },
+        {
+          "session": "2",
+          "inning_id": "200226",
+          "batting_team_id": "25",
+          "total_runs": "85",
+          "fall_wickets": "0"
+        }
+      ],
+      "day5": [
+        {
+          "session": "1",
+          "inning_id": "200226",
+          "batting_team_id": "25",
+          "total_runs": "49",
+          "fall_wickets": "2"
+        },
+        {
+          "session": "2",
+          "inning_id": "200226",
+          "batting_team_id": "25",
+          "total_runs": "99",
+          "fall_wickets": "0"
+        },
+        {
+          "session": "3",
+          "inning_id": "200226",
+          "batting_team_id": "25",
+          "total_runs": "103",
+          "fall_wickets": "0"
+        }
+      ]
+    }
+  },
+  "etag": "eef5da148e6fc76ac2a3dfd9fc5cb332",
+  "modified": "2025-10-16 06:23:21",
+  "datetime": "2025-10-16 06:23:21",
+  "api_version": "1.0"
+}

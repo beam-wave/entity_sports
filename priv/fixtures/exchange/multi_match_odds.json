@@ -1,0 +1,108 @@
+{
+  "status": "ok",
+  "response": {
+    "77363": {
+      "live_odds": {
+        "matchodds": {
+          "teama": {
+            "back": "4.5",
+            "lay": "4.6",
+            "back_volume": "49.7",
+            "lay_volume": "2.22"
+          },
+          "teamb": {
+            "back": "1.28",
+            "lay": "1.29",
+            "back_volume": "7.99",
+            "lay_volume": "1737.34"
+          }
+        },
+        "tiedmatch": {
+          "teama": {
+            "back": "110",
+            "lay": "180",
+            "back_volume": "41",
+            "lay_volume": "34.6"
+          },
+          "teamb": {
+            "back": "0",
+            "lay": "1.01",
+            "back_volume": "0",
+            "lay_volume": "18799.63"
+          }
+        },
+        "bookmaker": {
+          "teama": {
+            "back": "4.22",
+            "lay": "4.57",
+            "back_volume": "12500.00",
+            "lay_volume": "12500.00"
+          },
+          "teamb": {
+            "back": "1.28",
+            "lay": "1.31",
+            "back_volume": "50000.00",
+            "lay_volume": "50000.00"
+          }
+        }
+      },
+      "session_odds": [
+        {
+          "question_id": 750822,
+          "team_batting": "0",
+          "title": "1st Inn Top Batsman Runs SA adv",
+          "back_condition": "90",
+          "back": "80",
+          "lay_condition": "90",
+          "lay": "110",
+          "status": ""
+        },
+        {
+          "question_id": 750821,
+          "team_batting": "0",
+          "title": "1st Inn Highest Scoring over run SA adv",
+          "back_condition": "18",
+          "back": "100",
+          "lay_condition": "17",
+          "lay": "100",
+          "status": ""
+        },
+        {
+          "question_id": 750820,
+          "team_batting": "0",
+          "title": "1st Inn Total Four Hitters SA adv",
+          "back_condition": "7",
+          "back": "100",
+          "lay_condition": "6",
+          "lay": "100",
+          "status": ""
+        }
+      ]
+    },
+    "83678": {
+      "live_odds": {
+        "matchodds": {
+          "teama": {
+            "back": "1.104",
+            "lay": "",
+            "back_volume": "0",
+            "lay_volume": "0"
+          },
+          "teamb": {
+            "back": "6.91",
+            "lay": "",
+            "back_volume": "0",
+            "lay_volume": "0"
+          }
+        }
+      },
+      "session_odds": []
+    },
+    "total_items": 1,
+    "total_pages": 1
+  },
+  "etag": "063f8084738c85468ebea18a78c8c97a",
+  "modified": "2024-10-04 09:27:12",
+  "datetime": "2024-10-04 09:27:12",
+  "api_version": "1.0"
+}

@@ -1,42 +1,41 @@
 defmodule EntitySports.Model.Commentary do
   @moduledoc """
-  Match Batsmen model
+  Ball by ball commentary model
   """
-  use Ecto.Schema
-  import Ecto.Changeset
+  use EntitySports.Schema
 
-  @type t :: %__MODULE__{}
-
-  @derive Jason.Encoder
-  @primary_key false
   embedded_schema do
+    field(:event_id, :string)
+    # ball, overend, wicket, ..
     field(:event, :string)
-    field(:over, :integer)
-    field(:runs, :integer)
-    field(:score, :string)
+    field(:batsman_id, :integer)
+    field(:bowler_id, :integer)
+    # integer on live api, "over.ball" like string on innings commentary
+    field(:over, Raw)
+    field(:ball, :string)
+    field(:score, Raw)
     field(:commentary, :string)
+    field(:text, :string)
+    field(:timestamp, :integer)
+    field(:runs, :integer)
+    field(:run, :integer)
+    field(:noball_run, :integer)
+    field(:wide_run, :integer)
+    field(:bye_run, :integer)
+    field(:legbye_run, :integer)
+    field(:bat_run, :integer)
+    field(:noball, :boolean)
+    field(:wideball, :boolean)
+    field(:six, :boolean)
+    field(:four, :boolean)
+    field(:noball_dismissal, :boolean)
+    field(:ballverify, :boolean)
     field(:over_end_verify, :boolean)
-    embeds_many(:commentary_bats, Model.MatchLiveScore)
-    embeds_many(:commentary_bowls, Model.MatchLiveScore)
-  end
-
-  @fields [
-    :event,
-    :over,
-    :runs,
-    :score,
-    :commentary,
-    :over_end_verify
-  ]
-
-  def changeset(params) do
-    changeset(%__MODULE__{}, params)
-  end
-
-  def changeset(struct, params) do
-    struct
-    |> cast(params, @fields)
-    |> cast_embed(:commentary_bats)
-    |> cast_embed(:commentary_bowls)
+    # live api keys
+    embeds_many(:bats, Model.CommentaryBats)
+    embeds_many(:bowls, Model.CommentaryBowls)
+    # innings commentary api keys
+    embeds_many(:batsmen, Model.CommentaryBats)
+    embeds_many(:bowlers, Model.CommentaryBowls)
   end
 end

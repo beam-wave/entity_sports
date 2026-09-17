@@ -1,0 +1,274 @@
+{
+  "status": "ok",
+  "response": {
+    "wagon_fields": [
+      "batsman_id",
+      "bowler_id",
+      "over"
+    ],
+    "zones": [
+      "Fine Leg",
+      "Square Leg",
+      "Mid Wicket"
+    ],
+    "ball_length": [
+      "fulltoss",
+      "yorker",
+      "full_length"
+    ],
+    "ball_side": [
+      "leg_stump",
+      "off_stump",
+      "on_the_stumps"
+    ],
+    "ball_wide": [
+      "yes",
+      "no"
+    ],
+    "innings": [
+      {
+        "inning_id": 172778,
+        "number": 1,
+        "name": "South Africa Inning",
+        "runs": 108,
+        "overs": "13",
+        "wickets": 4,
+        "status": 2,
+        "result": 4,
+        "batting_team_id": 19,
+        "fielding_team_id": 17,
+        "batsmen": [
+          {
+            "batsman_id": 52891,
+            "role": "squad",
+            "role_str": "",
+            "runs": 27,
+            "balls_faced": 24,
+            "fours": 2,
+            "sixes": 2,
+            "how_out": "c M Forde b R Shepherd",
+            "dismissal": "caught",
+            "strike_rate": 112.5
+          },
+          {
+            "batsman_id": 49700,
+            "role": "squad",
+            "role_str": "",
+            "runs": 9,
+            "balls_faced": 20,
+            "fours": 0,
+            "sixes": 1,
+            "how_out": "c FA Allen b AJ Hosein",
+            "dismissal": "caught",
+            "strike_rate": 45
+          },
+          {
+            "batsman_id": 46117,
+            "role": "squad",
+            "role_str": "",
+            "runs": 20,
+            "balls_faced": 12,
+            "fours": 1,
+            "sixes": 2,
+            "how_out": "c N Pooran b R Shepherd",
+            "dismissal": "caught",
+            "strike_rate": 166.67
+          }
+        ],
+        "bowlers": [
+          {
+            "bowler_id": 50076,
+            "overs": 3,
+            "maidens": 0,
+            "runs_conceded": 11,
+            "wickets": 1,
+            "noballs": 0,
+            "wides": 0,
+            "econ": 3.67
+          },
+          {
+            "bowler_id": 96610,
+            "overs": 3,
+            "maidens": 0,
+            "runs_conceded": 28,
+            "wickets": 1,
+            "noballs": 0,
+            "wides": 0,
+            "econ": 9.33
+          },
+          {
+            "bowler_id": 53712,
+            "overs": 2,
+            "maidens": 1,
+            "runs_conceded": 11,
+            "wickets": 0,
+            "noballs": 0,
+            "wides": 1,
+            "econ": 5.5
+          }
+        ],
+        "wagons": [
+          [
+            52891,
+            50076,
+            0
+          ],
+          [
+            49700,
+            50076,
+            0
+          ],
+          [
+            49700,
+            50076,
+            0
+          ]
+        ]
+      },
+      {
+        "inning_id": 172780,
+        "number": 2,
+        "name": "West Indies Inning",
+        "runs": 116,
+        "overs": "9.2",
+        "wickets": 2,
+        "status": 2,
+        "result": 3,
+        "batting_team_id": 17,
+        "fielding_team_id": 19,
+        "batsmen": [
+          {
+            "batsman_id": 93141,
+            "role": "squad",
+            "role_str": "",
+            "runs": 1,
+            "balls_faced": 3,
+            "fours": 0,
+            "sixes": 0,
+            "how_out": "c A Markram b BC Fortuin",
+            "dismissal": "caught",
+            "strike_rate": 33.33
+          },
+          {
+            "batsman_id": 46943,
+            "role": "squad",
+            "role_str": "",
+            "runs": 42,
+            "balls_faced": 24,
+            "fours": 1,
+            "sixes": 4,
+            "how_out": "Not out",
+            "dismissal": "",
+            "strike_rate": 175
+          },
+          {
+            "batsman_id": 53715,
+            "role": "squad",
+            "role_str": "",
+            "runs": 35,
+            "balls_faced": 13,
+            "fours": 2,
+            "sixes": 4,
+            "how_out": "c JF Smith b OEG Baartman",
+            "dismissal": "caught",
+            "strike_rate": 269.23
+          }
+        ],
+        "bowlers": [
+          {
+            "bowler_id": 46147,
+            "overs": 1,
+            "maidens": 0,
+            "runs_conceded": 8,
+            "wickets": 1,
+            "noballs": 0,
+            "wides": 0,
+            "econ": 8
+          },
+          {
+            "bowler_id": 47487,
+            "overs": 2,
+            "maidens": 0,
+            "runs_conceded": 20,
+            "wickets": 0,
+            "noballs": 0,
+            "wides": 0,
+            "econ": 10
+          },
+          {
+            "bowler_id": 113130,
+            "overs": 2,
+            "maidens": 0,
+            "runs_conceded": 34,
+            "wickets": 0,
+            "noballs": 1,
+            "wides": 2,
+            "econ": 17
+          }
+        ],
+        "wagons": [
+          [
+            93141,
+            46147,
+            0
+          ],
+          [
+            46943,
+            46147,
+            0
+          ],
+          [
+            93141,
+            46147,
+            0
+          ]
+        ]
+      }
+    ],
+    "teams": [
+      {
+        "team_id": 17,
+        "name": "West Indies",
+        "short_name": "WI",
+        "country_iso": "wi",
+        "type": "country",
+        "logo_url": "https://images.entitysport.com/assets/uploads/2023/05/West-Indies.png"
+      },
+      {
+        "team_id": 19,
+        "name": "South Africa",
+        "short_name": "SA",
+        "country_iso": "za",
+        "type": "country",
+        "logo_url": "https://images.entitysport.com/assets/uploads/2023/05/South-africa.png"
+      }
+    ],
+    "players": [
+      {
+        "player_id": 482,
+        "name": "Johnson Charles",
+        "short_name": "J Charles",
+        "country_iso": "wi",
+        "logo_url": ""
+      },
+      {
+        "player_id": 1027,
+        "name": "Wiaan Mulder",
+        "short_name": "PWA Mulder",
+        "country_iso": "za",
+        "logo_url": ""
+      },
+      {
+        "player_id": 1204,
+        "name": "Shimron Hetmyer",
+        "short_name": "S Hetmyer",
+        "country_iso": "wi",
+        "logo_url": ""
+      }
+    ]
+  },
+  "etag": "709e7c427f689f4992824a93d0434f18",
+  "modified": "2024-08-29 11:12:55",
+  "datetime": "2024-08-29 11:12:55",
+  "api_version": "3.0"
+}

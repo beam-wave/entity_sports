@@ -1,0 +1,36 @@
+{
+  "status": "ok",
+  "response": {
+    "player": {
+      "pid": 119,
+      "title": "Virat Kohli",
+      "short_name": "Virat Kohli",
+      "first_name": "Virat Kohli",
+      "last_name": "",
+      "middle_name": "",
+      "birthdate": "1988-11-05",
+      "birthplace": "Delhi",
+      "country": "in",
+      "primary_team": [],
+      "logo_url": "",
+      "playing_role": "bat",
+      "batting_style": "Right Hand Bat",
+      "bowling_style": "Right Arm Medium",
+      "fielding_position": "",
+      "recent_match": 0,
+      "recent_appearance": 0,
+      "fantasy_player_rating": 9,
+      "alt_name": "Virat Kohli",
+      "facebook_profile": "",
+      "twitter_profile": "",
+      "instagram_profile": "",
+      "debut_data": "",
+      "thumb_url": "",
+      "nationality": "India"
+    }
+  },
+  "etag": "4c1e16dfe29a825005c0b94ae6bc1627",
+  "modified": "2023-06-10 08:40:55",
+  "datetime": "2023-06-10 08:40:55",
+  "api_version": "3.0"
+}

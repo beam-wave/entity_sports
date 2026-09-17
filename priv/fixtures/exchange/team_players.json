@@ -1,0 +1,92 @@
+{
+  "status": "ok",
+  "response": {
+    "items": {
+      "team": {
+        "tid": 593,
+        "title": "Mumbai Indians",
+        "abbr": "MI",
+        "alt_name": "Mumbai Indians",
+        "type": "club",
+        "thumb_url": "https://images.entitysport.com/assets/uploads/2021/03/MI-Logo.png",
+        "logo_url": "https://images.entitysport.com/assets/uploads/2021/03/MI-Logo.png",
+        "country": "in",
+        "sex": "male"
+      },
+      "players": {
+        "t20": [
+          {
+            "pid": 115,
+            "title": "Rohit Sharma",
+            "short_name": "Rohit Sharma",
+            "first_name": "Rohit Sharma",
+            "last_name": "",
+            "middle_name": "",
+            "birthdate": "1987-04-30",
+            "birthplace": "",
+            "country": "in",
+            "logo_url": "",
+            "playing_role": "bat",
+            "batting_style": "Right Hand Bat",
+            "bowling_style": "Right Arm Off Break",
+            "fielding_position": "",
+            "facebook_profile": "https://www.facebook.com/RohitSharmaOfficialPage/",
+            "twitter_profile": "https://twitter.com/ImRo45?s=20",
+            "instagram_profile": "https://www.instagram.com/rohitsharma45/?hl=en",
+            "nationality": "India"
+          },
+          {
+            "pid": 454,
+            "title": "Chris Jordan",
+            "short_name": "Chris Jordan",
+            "first_name": "Chris Jordan",
+            "last_name": "",
+            "middle_name": "",
+            "birthdate": "1988-10-04",
+            "birthplace": "",
+            "country": "en",
+            "logo_url": "",
+            "playing_role": "bowl",
+            "batting_style": "Right Hand Bat",
+            "bowling_style": "Right Arm Fast Medium",
+            "fielding_position": "",
+            "facebook_profile": "",
+            "twitter_profile": "",
+            "instagram_profile": "",
+            "nationality": "England"
+          },
+          {
+            "pid": 598,
+            "title": "Suryakumar Yadav",
+            "short_name": "SA Yadav",
+            "first_name": "Suryakumar Yadav",
+            "last_name": "",
+            "middle_name": "",
+            "birthdate": "1990-09-14",
+            "birthplace": "",
+            "country": "in",
+            "logo_url": "",
+            "playing_role": "bat",
+            "batting_style": "Right Hand Bat",
+            "bowling_style": "Right Arm Off Break",
+            "fielding_position": "",
+            "facebook_profile": "https://www.facebook.com/suryakumaryadavskyy/",
+            "twitter_profile": "https://twitter.com/surya_14kumar",
+            "instagram_profile": "https://www.instagram.com/surya_14kumar/?hl=en",
+            "nationality": "India"
+          }
+        ],
+        "lista": [],
+        "firstclass": [],
+        "t10": [],
+        "t100": []
+      }
+    },
+    "total_items": 1,
+    "total_pages": 1
+  },
+  "etag": "213bea5046eff101d5aed172e08ed922",
+  "modified": "2023-07-24 09:31:17",
+  "datetime": "2023-07-24 09:31:17",
+  "api_version": "1.0"
+}

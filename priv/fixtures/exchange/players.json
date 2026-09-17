@@ -1,0 +1,73 @@
+{
+  "status": "ok",
+  "response": {
+    "items": [
+      {
+        "pid": 44114,
+        "title": "Brian Vitori",
+        "short_name": "BV Vitori",
+        "first_name": "Brian Vitori",
+        "last_name": "",
+        "middle_name": "",
+        "birthdate": "1990-02-22",
+        "birthplace": "",
+        "country": "zw",
+        "logo_url": "",
+        "playing_role": "bowl",
+        "batting_style": "Left hand Bat",
+        "bowling_style": "Left Arm Fast Medium",
+        "fielding_position": "",
+        "facebook_profile": "",
+        "twitter_profile": "",
+        "instagram_profile": "",
+        "nationality": "Zimbabwe"
+      },
+      {
+        "pid": 44977,
+        "title": "Rahmat Shah",
+        "short_name": "R Shah",
+        "first_name": "Rahmat Shah",
+        "last_name": "",
+        "middle_name": "",
+        "birthdate": "1993-07-06",
+        "birthplace": "",
+        "country": "af",
+        "logo_url": "",
+        "playing_role": "bat",
+        "batting_style": "Right Hand Bat",
+        "bowling_style": "Right Arm Leg Spin",
+        "fielding_position": "",
+        "facebook_profile": "https://www.facebook.com/public/Rahmat-Shah",
+        "twitter_profile": "https://twitter.com/RahmatShah_08",
+        "instagram_profile": "https://www.instagram.com/rahmat_shah08/?hl=en",
+        "nationality": "Afghanistan"
+      },
+      {
+        "pid": 334,
+        "title": "Aftab Alam",
+        "short_name": "A Alam",
+        "first_name": "Aftab Alam",
+        "last_name": "",
+        "middle_name": "",
+        "birthdate": "1992-11-30",
+        "birthplace": "",
+        "country": "af",
+        "logo_url": "",
+        "playing_role": "bowl",
+        "batting_style": "Right Hand Bat",
+        "bowling_style": "Right Arm Medium Fast",
+        "fielding_position": "",
+        "facebook_profile": "",
+        "twitter_profile": "",
+        "instagram_profile": "",
+        "nationality": "Afghanistan"
+      }
+    ],
+    "total_items": "57004",
+    "total_pages": 5701
+  },
+  "etag": "762189284d71dbbc31d78f97b097879b",
+  "modified": "2023-07-24 09:31:40",
+  "datetime": "2023-07-24 09:31:40",
+  "api_version": "1.0"
+}

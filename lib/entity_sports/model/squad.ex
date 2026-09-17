@@ -1,35 +1,17 @@
 defmodule EntitySports.Model.Squad do
   @moduledoc """
-  Squad model
+  Competition squad model
   """
-  use Ecto.Schema
-  import Ecto.Changeset
-  alias EntitySports.Model
+  use EntitySports.Schema
 
-  @type t :: %__MODULE__{}
-
-  @derive Jason.Encoder
-  @primary_key false
   embedded_schema do
-    field(:team_id, :string)
+    field(:team_id, :integer)
     field(:title, :string)
+    field(:gmdate, :string)
+    field(:format, :string)
+    field(:format_str, :string)
     embeds_one(:team, Model.TeamDetail)
     embeds_many(:players, Model.Player)
-  end
-
-  @fields [
-    :team_id,
-    :title
-  ]
-
-  def changeset(params) do
-    changeset(%__MODULE__{}, params)
-  end
-
-  def changeset(struct, params) do
-    struct
-    |> cast(params, @fields)
-    |> cast_embed(:team)
-    |> cast_embed(:players)
+    embeds_many(:last_match_played, Model.DidNotBat)
   end
 end

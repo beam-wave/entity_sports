@@ -1,0 +1,45 @@
+{
+  "status": "ok",
+  "response": {
+    "teams": [
+      {
+        "tid": 591,
+        "title": "Kolkata Knight Riders",
+        "abbr": "KKR",
+        "alt_name": "Kolkata Knight Riders",
+        "type": "club",
+        "thumb_url": "https://images.entitysport.com/assets/uploads/2021/03/KKR-Logo.png",
+        "logo_url": "https://images.entitysport.com/assets/uploads/2021/03/KKR-Logo.png",
+        "country": "in",
+        "sex": "male"
+      },
+      {
+        "tid": 593,
+        "title": "Mumbai Indians",
+        "abbr": "MI",
+        "alt_name": "Mumbai Indians",
+        "type": "club",
+        "thumb_url": "https://images.entitysport.com/assets/uploads/2021/03/MI-Logo.png",
+        "logo_url": "https://images.entitysport.com/assets/uploads/2021/03/MI-Logo.png",
+        "country": "in",
+        "sex": "male"
+      },
+      {
+        "tid": 610,
+        "title": "Chennai Super Kings",
+        "abbr": "CSK",
+        "alt_name": "Chennai Super Kings",
+        "type": "club",
+        "thumb_url": "https://images.entitysport.com/assets/uploads/2021/03/CSK-Logo.png",
+        "logo_url": "https://images.entitysport.com/assets/uploads/2021/03/CSK-Logo.png",
+        "country": "in",
+        "sex": "male"
+      }
+    ],
+    "total_teams": 10
+  },
+  "etag": "938aadf43fdffd7512056066de500e1c",
+  "modified": "2023-07-24 09:29:34",
+  "datetime": "2023-07-24 09:29:34",
+  "api_version": "1.0"
+}

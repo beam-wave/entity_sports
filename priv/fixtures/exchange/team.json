@@ -1,0 +1,18 @@
+{
+  "status": "ok",
+  "response": {
+    "tid": 593,
+    "title": "Mumbai Indians",
+    "abbr": "MI",
+    "alt_name": "Mumbai Indians",
+    "type": "club",
+    "thumb_url": "https://images.entitysport.com/assets/uploads/2021/03/MI-Logo.png",
+    "logo_url": "https://images.entitysport.com/assets/uploads/2021/03/MI-Logo.png",
+    "country": "in",
+    "sex": "male"
+  },
+  "etag": "efbb4683d3840a6036881ee184ef3608",
+  "modified": "2023-07-24 09:30:25",
+  "datetime": "2023-07-24 09:30:25",
+  "api_version": "1.0"
+}

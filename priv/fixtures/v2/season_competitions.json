@@ -1,0 +1,131 @@
+{
+  "status": "ok",
+  "response": {
+    "items": [
+      {
+        "cid": 122141,
+        "title": "The Ashes",
+        "abbr": "TASH",
+        "type": "series",
+        "category": "international",
+        "match_format": "test",
+        "status": "result",
+        "season": "2021",
+        "datestart": "2021-12-08",
+        "dateend": "2022-01-18",
+        "country": "int",
+        "total_matches": "5",
+        "total_rounds": "0",
+        "total_teams": "2",
+        "matches_url": "competitions/122141/matches",
+        "teams_url": "competitions/122141/teams",
+        "standings_url": "competitions/122141/standings",
+        "rounds": [
+          {
+            "rid": 122142,
+            "name": "Test Series",
+            "order": 1,
+            "type": "series",
+            "match_format": "test",
+            "datestart": "2021-12-08",
+            "dateend": "2022-01-18",
+            "matches_url": "rounds/122142/matches",
+            "teams_url": "rounds/122142/teams"
+          }
+        ]
+      },
+      {
+        "cid": 121730,
+        "title": "India tour of South Africa",
+        "abbr": "ITOSA",
+        "type": "tour",
+        "category": "international",
+        "match_format": "mixed",
+        "status": "result",
+        "season": "2021",
+        "datestart": "2021-12-17",
+        "dateend": "2022-01-23",
+        "country": "int",
+        "total_matches": "6",
+        "total_rounds": "2",
+        "total_teams": "2",
+        "matches_url": "competitions/121730/matches",
+        "teams_url": "competitions/121730/teams",
+        "standings_url": "competitions/121730/standings",
+        "rounds": [
+          {
+            "rid": 121736,
+            "name": "Test Series",
+            "order": 1,
+            "type": "series",
+            "match_format": "odi",
+            "datestart": "2021-12-17",
+            "dateend": "2022-01-07",
+            "matches_url": "rounds/121736/matches",
+            "teams_url": "rounds/121736/teams"
+          },
+          {
+            "rid": 121737,
+            "name": "ODI Series",
+            "order": 2,
+            "type": "series",
+            "match_format": "odi",
+            "datestart": "2022-01-11",
+            "dateend": "2022-01-16",
+            "matches_url": "rounds/121737/matches",
+            "teams_url": "rounds/121737/teams"
+          }
+        ]
+      },
+      {
+        "cid": 121344,
+        "title": "Castle Lite Series",
+        "abbr": "CLS",
+        "type": "series",
+        "category": "international",
+        "match_format": "mixed",
+        "status": "result",
+        "season": "2021",
+        "datestart": "2021-08-28",
+        "dateend": "2021-09-02",
+        "country": "int",
+        "total_matches": "5",
+        "total_rounds": "0",
+        "total_teams": "2",
+        "matches_url": "competitions/121344/matches",
+        "teams_url": "competitions/121344/teams",
+        "standings_url": "competitions/121344/standings",
+        "rounds": [
+          {
+            "rid": 121364,
+            "name": "CLS OD",
+            "order": 1,
+            "type": "series",
+            "match_format": "lista",
+            "datestart": "2021-08-28",
+            "dateend": "2021-08-28",
+            "matches_url": "rounds/121364/matches",
+            "teams_url": "rounds/121364/teams"
+          },
+          {
+            "rid": 121365,
+            "name": "CLS T20",
+            "order": 2,
+            "type": "series",
+            "match_format": "t20",
+            "datestart": "2021-08-29",
+            "dateend": "2021-08-29",
+            "matches_url": "rounds/121365/matches",
+            "teams_url": "rounds/121365/teams"
+          }
+        ]
+      }
+    ],
+    "total_items": 20,
+    "total_pages": 2
+  },
+  "etag": "6158c8670e0e4ffb7afee645f3d506a6",
+  "modified": "2023-06-13 18:40:52",
+  "datetime": "2023-06-13 18:40:52",
+  "api_version": "3.0"
+}

@@ -1,0 +1,116 @@
+{
+  "status": "ok",
+  "response": {
+    "wagon_fields": [
+      "batsman_id",
+      "bowler_id",
+      "over"
+    ],
+    "zones": [
+      "Fine Leg",
+      "Square Leg",
+      "Mid Wicket"
+    ],
+    "innings": [
+      {
+        "inning_id": 132581,
+        "number": 1,
+        "name": "England 1st Inning",
+        "runs": 325,
+        "overs": "58.2",
+        "wickets": 9,
+        "status": 2,
+        "result": 2,
+        "batting_team_id": 490,
+        "fielding_team_id": 7,
+        "batsmen": [
+          {
+            "batsman_id": 50774,
+            "role": "squad",
+            "role_str": "",
+            "runs": 4,
+            "balls_faced": 14,
+            "fours": 0,
+            "sixes": 0,
+            "how_out": "c Michael Bracewell b Tim Southee",
+            "dismissal": "caught",
+            "strike_rate": 28.57
+          },
+          {
+            "batsman_id": 49378,
+            "role": "squad",
+            "role_str": "",
+            "runs": 84,
+            "balls_faced": 68,
+            "fours": 14,
+            "sixes": 0,
+            "how_out": "c Michael Bracewell b BM Tickner",
+            "dismissal": "caught",
+            "strike_rate": 123.53
+          },
+          {
+            "batsman_id": 51290,
+            "role": "squad",
+            "role_str": "",
+            "runs": 42,
+            "balls_faced": 65,
+            "fours": 6,
+            "sixes": 0,
+            "how_out": "c Tom Latham b Tim Southee",
+            "dismissal": "caught",
+            "strike_rate": 64.62
+          }
+        ],
+        "bowlers": [
+          {
+            "bowler_id": 43,
+            "overs": 13,
+            "maidens": 1,
+            "runs_conceded": 71,
+            "wickets": 2,
+            "noballs": 0,
+            "wides": 0,
+            "econ": 5.46
+          },
+          {
+            "bowler_id": 16564,
+            "overs": 16.2,
+            "maidens": 0,
+            "runs_conceded": 82,
+            "wickets": 4,
+            "noballs": 5,
+            "wides": 0,
+            "econ": 5.02
+          },
+          {
+            "bowler_id": 46310,
+            "overs": 13,
+            "maidens": 0,
+            "runs_conceded": 72,
+            "wickets": 1,
+            "noballs": 1,
+            "wides": 0,
+            "econ": 5.54
+          }
+        ],
+        "wagons": [
+          [
+            50774,
+            43,
+            0
+          ],
+          [
+            50774,
+            43,
+            0
+          ],
+          [
+            50774,
+            43,
+            0
+          ]
+        ]
+      }
+    ]
+  }
+}

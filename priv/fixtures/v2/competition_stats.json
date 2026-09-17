@@ -1,0 +1,66 @@
+{
+  "status": "ok",
+  "response": {
+    "stats": [],
+    "total_items": 0,
+    "total_pages": 0,
+    "formats": [
+      "t20"
+    ],
+    "stat_types": [
+      {
+        "group_title": "Batting",
+        "types": {
+          "batting_most_runs": "Most Runs",
+          "batting_most_runs_innings": "Highest Individual Score",
+          "batting_highest_strikerate": "Highest Strike Rates",
+          "batting_highest_strikerate_innings": "Highest Strike Rates (Innings)",
+          "batting_highest_average": "Highest Average",
+          "batting_most_run100": "Most Centuries",
+          "batting_most_run50": "Most Fifties",
+          "batting_most_run6": "Most Sixes",
+          "batting_most_run6_innings": "Most Sixes (Innings)",
+          "batting_most_run4": "Most Fours",
+          "batting_most_run4_innings": "Most Fours (Innings)"
+        }
+      },
+      {
+        "group_title": "Bowling",
+        "types": {
+          "bowling_top_wicket_takers": "Top Wicket Takers",
+          "bowling_best_economy_rates": "Best Economy Rates",
+          "bowling_best_economy_rates_innings": "Best Economy Rates (Innings)",
+          "bowling_best_bowling_figures": "Best Bowling Figures",
+          "bowling_best_strike_rates": "Best Strike Rates",
+          "bowling_best_strike_rates_innings": "Best Strike Rates (Innings)",
+          "bowling_best_averages": "Best Averages",
+          "bowling_most_runs_conceded_innings": "Most runs conceded in an innings",
+          "bowling_four_wickets": "Four Wickets",
+          "bowling_five_wickets": "Five Wickets",
+          "bowling_maidens": "Maidens"
+        }
+      },
+      {
+        "group_title": "Team",
+        "types": {
+          "team_total_runs": "Total Runs",
+          "team_total_run100": "Most Centuries",
+          "team_total_run50": "Most Fifties",
+          "team_total_wickets": "Total Wickets",
+          "team_highest_score": "Highest Score",
+          "team_lowest_score": "Lowest Score",
+          "team_match_win": "Total Match Win",
+          "team_extra_run_conceded": "Extra Runs Conceded",
+          "team_highest_win_margin_runs": "Highest Win Margin By Runs",
+          "team_lowest_win_margin_runs": "Lowest Win Margin By Runs",
+          "team_highest_win_margin_wickets": "Highest Win Margin By Wickets",
+          "team_lowest_win_margin_wickets": "Lowest Win Margin By Wickets"
+        }
+      }
+    ]
+  },
+  "etag": "579b80dd71de6ae2e8c99b3c0d2dcdf9",
+  "modified": "2024-06-11 05:32:26",
+  "datetime": "2024-06-11 05:32:26",
+  "api_version": "3.0"
+}

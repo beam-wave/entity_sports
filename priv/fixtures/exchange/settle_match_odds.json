@@ -1,0 +1,61 @@
+{
+  "status": "ok",
+  "response": {
+    "items": [
+      {
+        "question_id": 2932847,
+        "team_batting": "629",
+        "title": "19.5 ball run RR",
+        "back_condition": "194",
+        "back": "250",
+        "lay_condition": "194",
+        "lay": "400",
+        "status": "SUSPENDED",
+        "settle": "193",
+        "settle_type": "Run",
+        "settle_time": "1745474165",
+        "verified": "true",
+        "verified_time": "1745530952",
+        "qestatus": 1
+      },
+      {
+        "question_id": 2930738,
+        "team_batting": "629",
+        "title": "19 over run RR",
+        "back_condition": "191",
+        "back": "250",
+        "lay_condition": "191",
+        "lay": "350",
+        "status": "SUSPENDED",
+        "settle": "189",
+        "settle_type": "Run",
+        "settle_time": "1745473745",
+        "verified": "true",
+        "verified_time": "1745530952",
+        "qestatus": 1
+      },
+      {
+        "question_id": 2930737,
+        "team_batting": "629",
+        "title": "18.3 over run RR",
+        "back_condition": "191",
+        "back": "150",
+        "lay_condition": "191",
+        "lay": "200",
+        "status": "SUSPENDED",
+        "settle": "189",
+        "settle_type": "Run",
+        "settle_time": "1745473385",
+        "verified": "true",
+        "verified_time": "1745530952",
+        "qestatus": 1
+      }
+    ],
+    "total_items": 460,
+    "total_pages": 3
+  },
+  "etag": "f39853430321e197f778252ade257587",
+  "modified": "2025-04-28 09:12:05",
+  "datetime": "2025-04-28 09:12:05",
+  "api_version": "1.0"
+}

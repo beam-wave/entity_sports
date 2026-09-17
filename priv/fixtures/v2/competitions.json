@@ -1,0 +1,58 @@
+{
+  "status": "ok",
+  "response": {
+    "items": [
+      {
+        "cid": 90534,
+        "title": "England tour of Bangladesh",
+        "abbr": "bangladesh-v-england-2016-17",
+        "category": "international",
+        "status": "result",
+        "game_format": "mixed",
+        "season": "2016/17",
+        "datestart": "2016-10-04",
+        "dateend": "2016-11-02",
+        "country": "int",
+        "total_matches": "8",
+        "total_rounds": "2",
+        "total_teams": "4"
+      },
+      {
+        "cid": 90550,
+        "title": "England tour of India",
+        "abbr": "india-v-england-2016-17",
+        "category": "international",
+        "status": "result",
+        "game_format": "mixed",
+        "season": "2016/17",
+        "datestart": "2016-11-09",
+        "dateend": "2017-02-01",
+        "country": "int",
+        "total_matches": "13",
+        "total_rounds": "3",
+        "total_teams": "3"
+      },
+      {
+        "cid": 89908,
+        "title": "ICC Champions Trophy",
+        "abbr": "icc-champions-trophy-2017",
+        "category": "international",
+        "status": "result",
+        "game_format": "odi",
+        "season": "2017",
+        "datestart": "2017-06-01",
+        "dateend": "2017-06-20",
+        "country": "int",
+        "total_matches": "12",
+        "total_rounds": "0",
+        "total_teams": "8"
+      }
+    ],
+    "total_items": "52",
+    "total_pages": 2
+  },
+  "etag": "83145a7624009a6adb2d313c3cc15af3",
+  "modified": "2023-06-29 13:29:08",
+  "datetime": "2023-06-29 13:29:08",
+  "api_version": "3.0"
+}

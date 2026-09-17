@@ -1,0 +1,18 @@
+{
+  "status": "ok",
+  "response": {
+    "tid": 25,
+    "title": "India",
+    "abbr": "IND",
+    "alt_name": "India",
+    "type": "country",
+    "thumb_url": "https://images.entitysport.com/assets/uploads//2023/01/india-4.png",
+    "logo_url": "https://images.entitysport.com/assets/uploads//2023/01/india-4.png",
+    "country": "in",
+    "sex": "male"
+  },
+  "etag": "61f62f1b7610f77d92028bed1b51b23a",
+  "modified": "2023-06-26 01:15:47",
+  "datetime": "2023-06-26 01:15:47",
+  "api_version": "3.0"
+}

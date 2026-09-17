@@ -1,0 +1,354 @@
+{
+  "status": "ok",
+  "response": {
+    "match": {
+      "status": 2,
+      "game_state": 0
+    },
+    "inning": {
+      "iid": 132752,
+      "number": 1,
+      "name": "Karachi Kings Inning",
+      "short_name": "KK Inning",
+      "status": 2,
+      "issuperover": "false",
+      "result": 3,
+      "batting_team_id": 14469,
+      "fielding_team_id": 14470,
+      "scores": "185/5",
+      "scores_full": "185/5 (20 ov)",
+      "batsmen": [
+        {
+          "name": "Matthew Wade",
+          "batsman_id": "43522",
+          "batting": "false",
+          "position": "",
+          "role": "wk",
+          "role_str": "(WK)",
+          "runs": "36",
+          "balls_faced": "24",
+          "fours": "4",
+          "sixes": "1",
+          "run0": "6",
+          "run1": "12",
+          "run2": "1",
+          "run3": "0",
+          "run5": "0",
+          "how_out": "runout (Shai Hope / Kamran Ghulam)",
+          "dismissal": "runout",
+          "strike_rate": "150.00",
+          "bowler_id": "0",
+          "first_fielder_id": "44075",
+          "second_fielder_id": "46943",
+          "third_fielder_id": ""
+        },
+        {
+          "name": "James Vince",
+          "batsman_id": "1949",
+          "batting": "false",
+          "position": "",
+          "role": "bat",
+          "role_str": "",
+          "runs": "46",
+          "balls_faced": "36",
+          "fours": "3",
+          "sixes": "2",
+          "run0": "13",
+          "run1": "14",
+          "run2": "4",
+          "run3": "0",
+          "run5": "0",
+          "how_out": "b Zaman Khan",
+          "dismissal": "bowled",
+          "strike_rate": "127.78",
+          "bowler_id": "95942",
+          "first_fielder_id": "",
+          "second_fielder_id": "",
+          "third_fielder_id": ""
+        },
+        {
+          "name": "Haider Ali",
+          "batsman_id": "95302",
+          "batting": "false",
+          "position": "",
+          "role": "bat",
+          "role_str": "",
+          "runs": "18",
+          "balls_faced": "16",
+          "fours": "1",
+          "sixes": "1",
+          "run0": "6",
+          "run1": "8",
+          "run2": "0",
+          "run3": "0",
+          "run5": "0",
+          "how_out": "b LA Dawson",
+          "dismissal": "bowled",
+          "strike_rate": "112.50",
+          "bowler_id": "1945",
+          "first_fielder_id": "",
+          "second_fielder_id": "",
+          "third_fielder_id": ""
+        }
+      ],
+      "bowlers": [
+        {
+          "name": "Shaheen Afridi",
+          "bowler_id": "92991",
+          "bowling": "true",
+          "position": "active bowler",
+          "overs": "4",
+          "maidens": "0",
+          "runs_conceded": "39",
+          "wickets": "1",
+          "noballs": "0",
+          "wides": "2",
+          "econ": "9.75",
+          "run0": "9",
+          "bowledcount": "1",
+          "lbwcount": "0"
+        },
+        {
+          "name": "Zaman Khan",
+          "bowler_id": "95942",
+          "bowling": "false",
+          "position": "",
+          "overs": "4",
+          "maidens": "0",
+          "runs_conceded": "34",
+          "wickets": "1",
+          "noballs": "1",
+          "wides": "2",
+          "econ": "8.50",
+          "run0": "10",
+          "bowledcount": "1",
+          "lbwcount": "0"
+        },
+        {
+          "name": "David Wiese",
+          "bowler_id": "725",
+          "bowling": "false",
+          "position": "",
+          "overs": "1",
+          "maidens": "0",
+          "runs_conceded": "15",
+          "wickets": "0",
+          "noballs": "0",
+          "wides": "0",
+          "econ": "15.00",
+          "run0": "1",
+          "bowledcount": "0",
+          "lbwcount": "0"
+        }
+      ],
+      "fielder": [
+        {
+          "fielder_id": "44075",
+          "fielder_name": "Kamran Ghulam",
+          "catches": 0,
+          "runout_thrower": 1,
+          "runout_catcher": 0,
+          "runout_direct_hit": 0,
+          "stumping": 0,
+          "is_substitute": "false"
+        },
+        {
+          "fielder_id": "46943",
+          "fielder_name": "Shai Hope",
+          "catches": 1,
+          "runout_thrower": 0,
+          "runout_catcher": 1,
+          "runout_direct_hit": 0,
+          "stumping": 0,
+          "is_substitute": "false"
+        }
+      ],
+      "powerplay": {
+        "p1": {
+          "startover": "0.1",
+          "endover": "6"
+        }
+      },
+      "review": {
+        "batting": {
+          "batting_team_total_review": "2",
+          "batting_team_review_success": "0",
+          "batting_team_review_failed": "0",
+          "batting_team_review_available": "2"
+        },
+        "bowling": {
+          "bowling_team_total_review": "2",
+          "bowling_team_review_success": "1",
+          "bowling_team_review_failed": "0",
+          "bowling_team_review_available": "1"
+        }
+      },
+      "did_not_bat": [
+        {
+          "player_id": "59510",
+          "name": "Akif Javed"
+        },
+        {
+          "player_id": "1758",
+          "name": "Mohammad Amir"
+        },
+        {
+          "player_id": "177",
+          "name": "Imran Tahir"
+        }
+      ],
+      "max_over": "20",
+      "innings_create_verify": "false",
+      "innings_result_verify": "false"
+    },
+    "commentaries": [
+      {
+        "event_id": "2771760",
+        "event": "ball",
+        "batsman_id": "43522",
+        "bowler_id": "92991",
+        "over": "0",
+        "ball": "1",
+        "score": "1wd",
+        "commentary": "Shaheen Afridi to Matthew Wade, 1 wide, , good length, leg stump, Matthew Wade plays on the frontfoot, but ball was way too far and given wide by the umpire.",
+        "noball_dismissal": false,
+        "text": ", good length, leg stump, Matthew Wade plays on the frontfoot, but ball was way too far and given wide by the umpire.",
+        "timestamp": 1676815281,
+        "run": 1,
+        "noball_run": "0",
+        "wide_run": "1",
+        "bye_run": "0",
+        "legbye_run": "0",
+        "bat_run": "0",
+        "noball": false,
+        "wideball": true,
+        "six": false,
+        "four": false,
+        "batsmen": [
+          {
+            "runs": 0,
+            "balls_faced": 0,
+            "fours": 0,
+            "sixes": 0,
+            "batsman_id": 43522
+          },
+          {
+            "runs": 0,
+            "balls_faced": 0,
+            "fours": 0,
+            "sixes": 0,
+            "batsman_id": 1949
+          }
+        ],
+        "bowlers": [
+          {
+            "runs_conceded": 1,
+            "maidens": 0,
+            "wickets": 0,
+            "bowler_id": 92991,
+            "overs": 0
+          }
+        ],
+        "ballverify": false
+      },
+      {
+        "event_id": "2771764",
+        "event": "ball",
+        "batsman_id": "43522",
+        "bowler_id": "92991",
+        "over": "0",
+        "ball": "1",
+        "score": "1wd",
+        "commentary": "Shaheen Afridi to Matthew Wade, 1 wide, , back of length, leg stump, Matthew Wade plays on the frontfoot, but ball was way too far and given wide by the umpire.",
+        "noball_dismissal": false,
+        "text": ", back of length, leg stump, Matthew Wade plays on the frontfoot, but ball was way too far and given wide by the umpire.",
+        "timestamp": 1676815321,
+        "run": 1,
+        "noball_run": "0",
+        "wide_run": "1",
+        "bye_run": "0",
+        "legbye_run": "0",
+        "bat_run": "0",
+        "noball": false,
+        "wideball": true,
+        "six": false,
+        "four": false,
+        "batsmen": [
+          {
+            "runs": 0,
+            "balls_faced": 0,
+            "fours": 0,
+            "sixes": 0,
+            "batsman_id": 43522
+          },
+          {
+            "runs": 0,
+            "balls_faced": 0,
+            "fours": 0,
+            "sixes": 0,
+            "batsman_id": 1949
+          }
+        ],
+        "bowlers": [
+          {
+            "runs_conceded": 2,
+            "maidens": 0,
+            "wickets": 0,
+            "bowler_id": 92991,
+            "overs": 0
+          }
+        ],
+        "ballverify": false
+      },
+      {
+        "event_id": "2771766",
+        "event": "ball",
+        "batsman_id": "43522",
+        "bowler_id": "92991",
+        "over": "0",
+        "ball": "1",
+        "score": 1,
+        "commentary": "Shaheen Afridi to Matthew Wade, 1 run, , full length, on the stumps, Matthew Wade plays along the ground a push, of the frontfoot to mid on for 1 run",
+        "noball_dismissal": false,
+        "text": ", full length, on the stumps, Matthew Wade plays along the ground a push, of the frontfoot to mid on for 1 run",
+        "timestamp": 1676815355,
+        "run": 1,
+        "noball_run": "0",
+        "wide_run": "0",
+        "bye_run": "0",
+        "legbye_run": "0",
+        "bat_run": "1",
+        "noball": false,
+        "wideball": false,
+        "six": false,
+        "four": false,
+        "batsmen": [
+          {
+            "runs": 1,
+            "balls_faced": 1,
+            "fours": 0,
+            "sixes": 0,
+            "batsman_id": 43522
+          },
+          {
+            "runs": 0,
+            "balls_faced": 0,
+            "fours": 0,
+            "sixes": 0,
+            "batsman_id": 1949
+          }
+        ],
+        "bowlers": [
+          {
+            "runs_conceded": 3,
+            "maidens": 0,
+            "wickets": 0,
+            "bowler_id": 92991,
+            "overs": 0.1
+          }
+        ],
+        "ballverify": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "status": "ok",
+  "response": {
+    "standing_type": "per_round",
+    "standings": [
+      {
+        "round": {
+          "rid": 122373,
+          "order": 1,
+          "name": "BBL",
+          "type": "group",
+          "match_format": "t20",
+          "datestart": "2021-12-05",
+          "dateend": "2022-01-19"
+        },
+        "standings": [
+          {
+            "team_id": "14214",
+            "played": "14",
+            "win": "11",
+            "loss": "3",
+            "draw": "0",
+            "nr": "0",
+            "overfor": "272.3",
+            "runfor": "2312",
+            "overagainst": "274.0",
+            "runagainst": "2072",
+            "netrr": "0.922",
+            "points": "22",
+            "lastfivematch": "49682,49677,52452,49670,49664",
+            "lastfivematchresult": "W,L,W,W,L",
+            "quality": "false",
+            "team": {
+              "tid": 14214,
+              "title": "Perth Scorchers",
+              "abbr": "PS",
+              "thumb_url": "https://images.entitysport.com/assets/uploads/2016/12/Perth-Scorchers.png",
+              "alt_name": "Perth Scorchers",
+              "type": "club",
+              "logo_url": "https://images.entitysport.com/assets/uploads/2016/12/Perth-Scorchers-32x32.png",
+              "country": "au",
+              "sex": "male"
+            }
+          },
+          {
+            "team_id": "14203",
+            "played": "14",
+            "win": "9",
+            "loss": "4",
+            "draw": "0",
+            "nr": "1",
+            "overfor": "253.0",
+            "runfor": "2084",
+            "overagainst": "256.3",
+            "runagainst": "1828",
+            "netrr": "1.110",
+            "points": "19",
+            "lastfivematch": "52630,49681,49678,49673,49670",
+            "lastfivematchresult": "W,L,W,W,L",
+            "quality": "false",
+            "team": {
+              "tid": 14203,
+              "title": "Sydney Sixers",
+              "abbr": "SIX",
+              "thumb_url": "https://images.entitysport.com/assets/uploads/2016/12/Sydney-Sixers.png",
+              "alt_name": "Sydney Sixers",
+              "type": "club",
+              "logo_url": "https://images.entitysport.com/assets/uploads/2016/12/Sydney-Sixers-32x32.png",
+              "country": "au",
+              "sex": "male"
+            }
+          },
+          {
+            "team_id": "14202",
+            "played": "14",
+            "win": "9",
+            "loss": "5",
+            "draw": "0",
+            "nr": "0",
+            "overfor": "271.4",
+            "runfor": "2311",
+            "overagainst": "271.1",
+            "runagainst": "2141",
+            "netrr": "0.611",
+            "points": "18",
+            "lastfivematch": "49683,49678,49675,49672,49668",
+            "lastfivematchresult": "W,L,L,W,W",
+            "quality": "false",
+            "team": {
+              "tid": 14202,
+              "title": "Sydney Thunder",
+              "abbr": "ST",
+              "thumb_url": "https://images.entitysport.com/assets/uploads/2016/12/Sydney-Thunder.png",
+              "alt_name": "Sydney Thunder",
+              "type": "club",
+              "logo_url": "https://images.entitysport.com/assets/uploads/2016/12/Sydney-Thunder-32x32.png",
+              "country": "au",
+              "sex": "male"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "etag": "611416cea3055a5222f483d370b3e0e1",
+  "modified": "2022-11-02 09:18:56",
+  "datetime": "2022-11-02 09:18:56",
+  "api_version": "2.0"
+}

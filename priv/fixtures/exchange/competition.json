@@ -1,0 +1,102 @@
+{
+  "status": "ok",
+  "response": {
+    "cid": 127180,
+    "title": "New Zealand tour of India",
+    "abbr": "NZTOI",
+    "type": "tour",
+    "category": "international",
+    "game_format": "mixed",
+    "status": "result",
+    "season": "2023",
+    "datestart": "2023-01-18",
+    "dateend": "2023-02-01",
+    "country": "int",
+    "total_matches": "6",
+    "total_rounds": "2",
+    "total_teams": "2",
+    "table": "1",
+    "man_of_the_series": [],
+    "rounds": [
+      {
+        "rid": 127184,
+        "name": "New Zealand tour of India ODI",
+        "order": 1,
+        "type": "series",
+        "match_format": "odi",
+        "datestart": "2023-01-18",
+        "dateend": "2023-01-24",
+        "man_of_the_series": [],
+        "matches_url": "rounds/127184/matches",
+        "teams_url": "rounds/127184/teams"
+      },
+      {
+        "rid": 127185,
+        "name": "New Zealand tour of India T20I",
+        "order": 2,
+        "type": "series",
+        "match_format": "t20i",
+        "datestart": "2023-01-27",
+        "dateend": "2023-02-01",
+        "man_of_the_series": [],
+        "matches_url": "rounds/127185/matches",
+        "teams_url": "rounds/127185/teams"
+      }
+    ],
+    "venue_list": [
+      {
+        "venue_id": 23,
+        "name": "Rajiv Gandhi International Stadium, Uppal",
+        "city": "Hyderabad",
+        "country": "India",
+        "capacity": ""
+      },
+      {
+        "venue_id": 27,
+        "name": "Shaheed Veer Narayan Singh International Stadium",
+        "city": "Raipur",
+        "country": "India",
+        "capacity": "50000"
+      },
+      {
+        "venue_id": 115,
+        "name": "JSCA International Stadium Complex",
+        "city": "Ranchi",
+        "country": "India",
+        "capacity": ""
+      }
+    ],
+    "teams": [
+      {
+        "tid": 7,
+        "title": "New Zealand",
+        "abbr": "NZ",
+        "alt_name": "New Zealand",
+        "type": "country",
+        "thumb_url": "https://images.entitysport.com/assets/uploads/2023/05/New-zealand.png",
+        "logo_url": "https://images.entitysport.com/assets/uploads/2023/05/New-zealand.png",
+        "country": "nz",
+        "sex": "male"
+      },
+      {
+        "tid": 25,
+        "title": "India",
+        "abbr": "IND",
+        "alt_name": "India",
+        "type": "country",
+        "thumb_url": "https://images.entitysport.com/assets/uploads//2023/01/india-4.png",
+        "logo_url": "https://images.entitysport.com/assets/uploads//2023/01/india-4.png",
+        "country": "in",
+        "sex": "male"
+      }
+    ],
+    "standing": {
+      "standing_type": "per_round",
+      "standings": []
+    }
+  },
+  "etag": "8c07b7d8be271c2ec22f263438d82fd9",
+  "modified": "2023-07-24 09:17:01",
+  "datetime": "2023-07-24 09:17:01",
+  "api_version": "1.0"
+}

@@ -1,0 +1,68 @@
+{
+  "status": "ok",
+  "response": {
+    "cid": 127096,
+    "title": "SA20",
+    "abbr": "SA20",
+    "type": "tournament",
+    "category": "domestic",
+    "game_format": "t20",
+    "status": "result",
+    "season": "2023",
+    "datestart": "2023-01-10",
+    "dateend": "2023-02-12",
+    "country": "za",
+    "total_matches": "33",
+    "total_rounds": "0",
+    "total_teams": "6",
+    "table": "0",
+    "man_of_the_series": {
+      "pid": "46117",
+      "name": "Aiden Markram"
+    },
+    "rounds": [
+      {
+        "rid": 127103,
+        "name": "SA20",
+        "order": 1,
+        "type": "group",
+        "match_format": "t20",
+        "datestart": "2023-01-10",
+        "dateend": "2023-02-08",
+        "man_of_the_series": {
+          "pid": "46117",
+          "name": "Aiden Markram"
+        },
+        "matches_url": "rounds/127103/matches",
+        "teams_url": "rounds/127103/teams"
+      }
+    ],
+    "venue_list": [
+      {
+        "venue_id": 33,
+        "name": "Kingsmead, Durban",
+        "city": "Durban",
+        "country": "South Africa",
+        "capacity": "25000"
+      },
+      {
+        "venue_id": 34,
+        "name": "SuperSport Park, Centurion",
+        "city": "Centurion",
+        "country": "South Africa",
+        "capacity": "22000"
+      },
+      {
+        "venue_id": 62,
+        "name": "St George's Park",
+        "city": "Port Elizabeth",
+        "country": "South Africa",
+        "capacity": "19000"
+      }
+    ]
+  },
+  "etag": "be0fae6c1ffd60fb67f9d9e0a08f33cf",
+  "modified": "2023-07-06 12:58:01",
+  "datetime": "2023-07-06 12:58:01",
+  "api_version": "3.0"
+}

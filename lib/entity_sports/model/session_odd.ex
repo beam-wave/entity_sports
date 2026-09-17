@@ -1,50 +1,24 @@
 defmodule EntitySports.Model.SessionOdd do
   @moduledoc """
-  SessionOdd model
+  Session odds model
   """
-  use Ecto.Schema
-  import Ecto.Changeset
+  use EntitySports.Schema
 
-  @type t :: %__MODULE__{}
-
-  @derive Jason.Encoder
-  @primary_key false
   embedded_schema do
-    # team batting
-    field(:team_batting, :string)
-    # title
-    field(:title, :string)
-    # back condition
-    field(:back_condition, :string)
-    # back
-    field(:back, :string)
-    # lay condition
-    field(:lay_condition, :string)
-    # lay
-    field(:lay, :string)
-    # status
-    field(:status, :string)
-    # unique key for each session
     field(:question_id, :integer)
-  end
-
-  @fields [
-    :team_batting,
-    :title,
-    :back_condition,
-    :back,
-    :lay_condition,
-    :lay,
-    :status,
-    :question_id
-  ]
-
-  def changeset(params) do
-    changeset(%__MODULE__{}, params)
-  end
-
-  def changeset(struct, params) do
-    struct
-    |> cast(params, @fields)
+    field(:team_batting, :string)
+    field(:title, :string)
+    field(:back_condition, :string)
+    field(:back, :string)
+    field(:lay_condition, :string)
+    field(:lay, :string)
+    field(:status, :string)
+    field(:settle, :string)
+    field(:settle_type, :string)
+    field(:settle_time, :string)
+    field(:verified, :string)
+    field(:verified_time, :string)
+    # Question settlement: 1 - Unknown(default), 2 - Cancel, 3 - Rollback
+    field(:qestatus, :integer)
   end
 end

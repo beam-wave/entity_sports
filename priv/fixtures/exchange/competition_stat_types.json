@@ -1,0 +1,233 @@
+{
+  "status": "ok",
+  "response": {
+    "stats": [
+      {
+        "matches": 3,
+        "runs": 118,
+        "notout": 1,
+        "highest": 50,
+        "run100": 0,
+        "run50": 1,
+        "run4": 13,
+        "run6": 4,
+        "catches": 2,
+        "stumpings": 0,
+        "fastest50balls": 0,
+        "fastest100balls": 0,
+        "average": "59.00",
+        "strike": "151.28",
+        "innings": 3,
+        "balls": 78,
+        "team": {
+          "tid": 10538,
+          "title": "Jersey",
+          "abbr": "JER",
+          "alt_name": "Jersey",
+          "type": "country",
+          "thumb_url": "https://images.entitysport.com/assets/uploads/2022/05/JER-CR1@2x.png",
+          "logo_url": "https://images.entitysport.com/assets/uploads/2022/05/JER-CR1@2x.png",
+          "country": "je",
+          "sex": "male"
+        },
+        "player": {
+          "pid": 96199,
+          "title": "Nick Greenwood",
+          "short_name": "Nick Greenwood",
+          "first_name": "Nick Greenwood",
+          "last_name": "",
+          "middle_name": "",
+          "birthdate": "1999-10-21",
+          "birthplace": "",
+          "country": "je",
+          "logo_url": "",
+          "playing_role": "bat",
+          "batting_style": "Right Hand Bat",
+          "bowling_style": "",
+          "fielding_position": "",
+          "facebook_profile": "",
+          "twitter_profile": "",
+          "instagram_profile": "",
+          "nationality": "Jersey"
+        }
+      },
+      {
+        "matches": 3,
+        "runs": 114,
+        "notout": 2,
+        "highest": 94,
+        "run100": 0,
+        "run50": 1,
+        "run4": 11,
+        "run6": 4,
+        "catches": 3,
+        "stumpings": 0,
+        "fastest50balls": 0,
+        "fastest100balls": 0,
+        "average": "114.00",
+        "strike": "158.33",
+        "innings": 3,
+        "balls": 72,
+        "team": {
+          "tid": 11,
+          "title": "Ireland",
+          "abbr": "IRE",
+          "alt_name": "Ireland",
+          "type": "country",
+          "thumb_url": "https://images.entitysport.com/assets/uploads/2023/05/Ireland.png",
+          "logo_url": "https://images.entitysport.com/assets/uploads/2023/05/Ireland.png",
+          "country": "ie",
+          "sex": "male"
+        },
+        "player": {
+          "pid": 1111,
+          "title": "Lorcan Tucker",
+          "short_name": "Lorcan Tucker",
+          "first_name": "Lorcan Tucker",
+          "last_name": "",
+          "middle_name": "",
+          "birthdate": "1996-09-10",
+          "birthplace": "Dublin",
+          "country": "ie",
+          "logo_url": "",
+          "playing_role": "wk",
+          "batting_style": "Right Hand Bat",
+          "bowling_style": "",
+          "fielding_position": "Wicketkeeper",
+          "facebook_profile": "",
+          "twitter_profile": "@lorcan_tucker",
+          "instagram_profile": "",
+          "nationality": "Ireland"
+        }
+      },
+      {
+        "matches": 3,
+        "runs": 106,
+        "notout": 1,
+        "highest": 47,
+        "run100": 0,
+        "run50": 0,
+        "run4": 15,
+        "run6": 1,
+        "catches": 1,
+        "stumpings": 0,
+        "fastest50balls": 0,
+        "fastest100balls": 0,
+        "average": "53.00",
+        "strike": "129.27",
+        "innings": 3,
+        "balls": 82,
+        "team": {
+          "tid": 41704,
+          "title": "Germany",
+          "abbr": "GER",
+          "alt_name": "Germany",
+          "type": "country",
+          "thumb_url": "https://images.entitysport.com/assets/uploads/2023/05/Germany.png",
+          "logo_url": "https://images.entitysport.com/assets/uploads/2023/05/Germany.png",
+          "country": "de",
+          "sex": "male"
+        },
+        "player": {
+          "pid": 46861,
+          "title": "Joshua van Heerden",
+          "short_name": "J van Heerden",
+          "first_name": "Joshua van Heerden",
+          "last_name": "",
+          "middle_name": "",
+          "birthdate": "1998-06-26",
+          "birthplace": "",
+          "country": "za",
+          "logo_url": "",
+          "playing_role": "bat",
+          "batting_style": "Right Hand Bat",
+          "bowling_style": "",
+          "fielding_position": "",
+          "facebook_profile": "",
+          "twitter_profile": "",
+          "instagram_profile": "",
+          "nationality": "South Africa"
+        }
+      }
+    ],
+    "total_items": 82,
+    "total_pages": 9,
+    "formats": [
+      "t20i"
+    ],
+    "stat_types": [
+      {
+        "group_title": "Batting",
+        "types": {
+          "batting_most_runs": "Most Runs",
+          "batting_most_runs_innings": "Highest Individual Score",
+          "batting_highest_strikerate": "Highest Strike Rates",
+          "batting_highest_strikerate_innings": "Highest Strike Rates (Innings)",
+          "batting_highest_average": "Highest Average",
+          "batting_most_run100": "Most Centuries",
+          "batting_most_run50": "Most Fifties",
+          "batting_most_run6": "Most Sixes",
+          "batting_most_run6_innings": "Most Sixes (Innings)",
+          "batting_most_run4": "Most Fours",
+          "batting_most_run4_innings": "Most Fours (Innings)"
+        }
+      },
+      {
+        "group_title": "Bowling",
+        "types": {
+          "bowling_top_wicket_takers": "Top Wicket Takers",
+          "bowling_best_economy_rates": "Best Economy Rates",
+          "bowling_best_economy_rates_innings": "Best Economy Rates (Innings)",
+          "bowling_best_bowling_figures": "Best Bowling Figures",
+          "bowling_best_strike_rates": "Best Strike Rates",
+          "bowling_best_strike_rates_innings": "Best Strike Rates (Innings)",
+          "bowling_best_averages": "Best Averages",
+          "bowling_most_runs_conceded_innings": "Most runs conceded in an innings",
+          "bowling_four_wickets": "Four Wickets",
+          "bowling_five_wickets": "Five Wickets",
+          "bowling_maidens": "Maidens"
+        }
+      },
+      {
+        "group_title": "Team",
+        "types": {
+          "team_total_runs": "Total Runs",
+          "team_total_run100": "Most Centuries",
+          "team_total_run50": "Most Fifties",
+          "team_total_wickets": "Total Wickets"
+        }
+      }
+    ],
+    "format": "t20i",
+    "teams": [
+      {
+        "team_id": 9,
+        "name": "Scotland",
+        "short_name": "SCO",
+        "country_iso": "sct",
+        "type": "country",
+        "logo_url": "https://images.entitysport.com/assets/uploads/2023/05/Scotland.png"
+      },
+      {
+        "team_id": 11,
+        "name": "Ireland",
+        "short_name": "IRE",
+        "country_iso": "ie",
+        "type": "country",
+        "logo_url": "https://images.entitysport.com/assets/uploads/2023/05/Ireland.png"
+      },
+      {
+        "team_id": 9125,
+        "name": "Denmark",
+        "short_name": "DEN",
+        "country_iso": "dk",
+        "type": "country",
+        "logo_url": "https://images.entitysport.com/assets/uploads/2023/05/Denmark.png"
+      }
+    ]
+  },
+  "etag": "6d5508a0981abdb79a7d780e7cc56e52",
+  "modified": "2023-07-24 09:25:56",
+  "datetime": "2023-07-24 09:25:56",
+  "api_version": "1.0"
+}

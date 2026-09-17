@@ -1,0 +1,58 @@
+{
+  "status": "ok",
+  "response": {
+    "items": [
+      {
+        "cid": 127174,
+        "title": "Sri Lanka tour of India",
+        "abbr": "SLTOI",
+        "category": "international",
+        "status": "result",
+        "game_format": "mixed",
+        "season": "2023",
+        "datestart": "2023-01-03",
+        "dateend": "2023-01-15",
+        "country": "int",
+        "total_matches": "6",
+        "total_rounds": "2",
+        "total_teams": "2"
+      },
+      {
+        "cid": 127183,
+        "title": "Ireland tour of Zimbabwe",
+        "abbr": "ITOZ",
+        "category": "international",
+        "status": "result",
+        "game_format": "mixed",
+        "season": "2023",
+        "datestart": "2023-01-12",
+        "dateend": "2023-01-23",
+        "country": "int",
+        "total_matches": "6",
+        "total_rounds": "2",
+        "total_teams": "2"
+      },
+      {
+        "cid": 127180,
+        "title": "New Zealand tour of India",
+        "abbr": "NZTOI",
+        "category": "international",
+        "status": "result",
+        "game_format": "mixed",
+        "season": "2023",
+        "datestart": "2023-01-18",
+        "dateend": "2023-02-01",
+        "country": "int",
+        "total_matches": "6",
+        "total_rounds": "2",
+        "total_teams": "2"
+      }
+    ],
+    "total_items": "264",
+    "total_pages": 27
+  },
+  "etag": "5754d165af6b3c86d001a3e78e631a21",
+  "modified": "2023-07-24 09:14:32",
+  "datetime": "2023-07-24 09:14:32",
+  "api_version": "1.0"
+}

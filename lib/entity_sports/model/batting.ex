@@ -1,14 +1,9 @@
 defmodule EntitySports.Model.Batting do
   @moduledoc """
-  Batting model
+  Player batting stats (per format)
   """
-  use Ecto.Schema
-  import Ecto.Changeset
+  use EntitySports.Schema
 
-  @type t :: %__MODULE__{}
-
-  @derive Jason.Encoder
-  @primary_key false
   embedded_schema do
     field(:match_id, :integer)
     field(:inning_id, :integer)
@@ -22,41 +17,11 @@ defmodule EntitySports.Model.Batting do
     field(:run50, :integer)
     field(:run4, :integer)
     field(:run6, :integer)
-    field(:average, :string)
-    field(:strike, :string)
+    field(:average, Number)
+    field(:strike, Number)
     field(:catches, :integer)
     field(:stumpings, :integer)
     field(:fastest50balls, :integer)
     field(:fastest100balls, :integer)
-  end
-
-  @fields [
-    :match_id,
-    :inning_id,
-    :matches,
-    :innings,
-    :notout,
-    :runs,
-    :balls,
-    :highest,
-    :run100,
-    :run50,
-    :run4,
-    :run6,
-    :average,
-    :strike,
-    :catches,
-    :stumpings,
-    :fastest50balls,
-    :fastest100balls
-  ]
-
-  def changeset(params) do
-    changeset(%__MODULE__{}, params)
-  end
-
-  def changeset(struct, params) do
-    struct
-    |> cast(params, @fields)
   end
 end

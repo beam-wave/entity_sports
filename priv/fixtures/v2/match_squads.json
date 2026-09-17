@@ -1,0 +1,182 @@
+{
+  "status": "ok",
+  "response": {
+    "teama": {
+      "team_id": 123216,
+      "squads": [
+        {
+          "player_id": "633",
+          "substitute": "false",
+          "out": "false",
+          "in": "false",
+          "role_str": "(WK)",
+          "role": "wk",
+          "playing11": "true",
+          "name": "Wriddhiman Saha"
+        },
+        {
+          "player_id": "90739",
+          "substitute": "false",
+          "out": "false",
+          "in": "false",
+          "role_str": "",
+          "role": "bat",
+          "playing11": "true",
+          "name": "Shubman Gill"
+        },
+        {
+          "player_id": "31",
+          "substitute": "false",
+          "out": "false",
+          "in": "false",
+          "role_str": "",
+          "role": "bat",
+          "playing11": "true",
+          "name": "Kane Williamson"
+        }
+      ]
+    },
+    "teamb": {
+      "team_id": 610,
+      "squads": [
+        {
+          "player_id": "90363",
+          "substitute": "false",
+          "out": "false",
+          "in": "false",
+          "role_str": "",
+          "role": "bat",
+          "playing11": "true",
+          "name": "Ruturaj Gaikwad"
+        },
+        {
+          "player_id": "46141",
+          "substitute": "false",
+          "out": "false",
+          "in": "false",
+          "role_str": "",
+          "role": "wk",
+          "playing11": "true",
+          "name": "Devon Conway"
+        },
+        {
+          "player_id": "603",
+          "substitute": "false",
+          "out": "true",
+          "in": "false",
+          "role_str": "",
+          "role": "bat",
+          "playing11": "true",
+          "name": "Ambati Rayudu"
+        }
+      ]
+    },
+    "teams": [
+      {
+        "tid": 610,
+        "title": "Chennai Super Kings",
+        "abbr": "CSK",
+        "alt_name": "Chennai Super Kings",
+        "type": "club",
+        "thumb_url": "https://images.entitysport.com/assets/uploads/2021/03/CSK-Logo.png",
+        "logo_url": "https://images.entitysport.com/assets/uploads/2021/03/CSK-Logo.png",
+        "country": "in",
+        "sex": "male"
+      },
+      {
+        "tid": 123216,
+        "title": "Gujarat Titans",
+        "abbr": "GT",
+        "alt_name": "Gujarat Titans",
+        "type": "club",
+        "thumb_url": "https://images.entitysport.com/assets/uploads/2022/03/Gujarat-Cricket-TeamLogo.png",
+        "logo_url": "https://images.entitysport.com/assets/uploads/2022/03/Gujarat-Cricket-TeamLogo.png",
+        "country": "in",
+        "sex": "male"
+      }
+    ],
+    "players": [
+      {
+        "pid": 31,
+        "title": "Kane Williamson",
+        "short_name": "Kane Williamson",
+        "first_name": "Kane Williamson",
+        "last_name": "",
+        "middle_name": "",
+        "birthdate": "1990-08-08",
+        "birthplace": "",
+        "country": "nz",
+        "primary_team": [],
+        "logo_url": "",
+        "playing_role": "bat",
+        "batting_style": "Right Hand Bat",
+        "bowling_style": "Right Arm Off Break",
+        "fielding_position": "",
+        "recent_match": 0,
+        "recent_appearance": 0,
+        "fantasy_player_rating": 8.5,
+        "alt_name": "Kane Williamson",
+        "facebook_profile": "https://www.facebook.com/KaneWillTrain/",
+        "twitter_profile": "https://twitter.com/kanewiliamson?lang=en",
+        "instagram_profile": "https://www.instagram.com/kane_s_w/?hl=en",
+        "debut_data": "",
+        "thumb_url": "",
+        "nationality": "New Zealand"
+      },
+      {
+        "pid": 93,
+        "title": "Moeen Ali",
+        "short_name": "Moeen Ali",
+        "first_name": "Moeen Ali",
+        "last_name": "",
+        "middle_name": "",
+        "birthdate": "1987-06-18",
+        "birthplace": "Birmingham",
+        "country": "en",
+        "primary_team": [],
+        "logo_url": "",
+        "playing_role": "bat",
+        "batting_style": "Left hand Bat",
+        "bowling_style": "Right Arm Off Break",
+        "fielding_position": "",
+        "recent_match": 0,
+        "recent_appearance": 0,
+        "fantasy_player_rating": 9,
+        "alt_name": "Moeen Ali",
+        "facebook_profile": "https://www.facebook.com/moeenalifan/",
+        "twitter_profile": "",
+        "instagram_profile": "https://www.instagram.com/moeenmunirali/",
+        "debut_data": "",
+        "thumb_url": "",
+        "nationality": "England"
+      },
+      {
+        "pid": 123,
+        "title": "MS Dhoni",
+        "short_name": "MS Dhoni",
+        "first_name": "MS Dhoni",
+        "last_name": "",
+        "middle_name": "",
+        "birthdate": "1981-07-07",
+        "birthplace": "Ranchi, Bihar (now Jharkhand)",
+        "country": "in",
+        "primary_team": [],
+        "logo_url": "",
+        "playing_role": "wk",
+        "batting_style": "Right Hand Bat",
+        "bowling_style": "Right Arm Medium",
+        "fielding_position": "",
+        "recent_match": 0,
+        "recent_appearance": 0,
+        "fantasy_player_rating": 7.5,
+        "alt_name": "",
+        "facebook_profile": "MS Dhoni",
+        "twitter_profile": "@msdhoni",
+        "instagram_profile": "@mahi7781",
+        "debut_data": "",
+        "thumb_url": "",
+        "nationality": "India"
+      }
+    ]
+  }
+}

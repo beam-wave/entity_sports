@@ -4,7 +4,7 @@ defmodule EntitySports.MixProject do
   def project do
     [
       app: :entity_sports,
-      version: "1.0.4",
+      version: "1.1.0",
       elixir: "~> 1.14",
       elixirc_options: [warnings_as_errors: warnings_as_errors?(Mix.env())],
       start_permanent: Mix.env() == :prod,

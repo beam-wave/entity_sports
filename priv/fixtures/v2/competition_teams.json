@@ -1,0 +1,45 @@
+{
+  "status": "ok",
+  "response": {
+    "teams": [
+      {
+        "tid": 14202,
+        "title": "Sydney Thunder",
+        "abbr": "ST",
+        "alt_name": "Sydney Thunder",
+        "type": "club",
+        "thumb_url": "https://images.entitysport.com/assets/uploads//2022/12/Sydney-Thunder.png",
+        "logo_url": "https://images.entitysport.com/assets/uploads//2022/12/Sydney-Thunder.png",
+        "country": "au",
+        "sex": "male"
+      },
+      {
+        "tid": 14203,
+        "title": "Sydney Sixers",
+        "abbr": "SIX",
+        "alt_name": "Sydney Sixers",
+        "type": "club",
+        "thumb_url": "https://images.entitysport.com/assets/uploads//2022/12/Sydney-Sixers.png",
+        "logo_url": "https://images.entitysport.com/assets/uploads//2022/12/Sydney-Sixers.png",
+        "country": "au",
+        "sex": "male"
+      },
+      {
+        "tid": 14205,
+        "title": "Adelaide Strikers",
+        "abbr": "STR",
+        "alt_name": "Adelaide Strikers",
+        "type": "club",
+        "thumb_url": "https://images.entitysport.com/assets/uploads/2020/12/Adelaide-Strikers.png",
+        "logo_url": "https://images.entitysport.com/assets/uploads/2020/12/Adelaide-Strikers.png",
+        "country": "au",
+        "sex": "male"
+      }
+    ],
+    "total_teams": 8
+  },
+  "etag": "92bb7f423e847a685d312039d63aaf4d",
+  "modified": "2023-06-26 01:16:47",
+  "datetime": "2023-06-26 01:16:47",
+  "api_version": "3.0"
+}
