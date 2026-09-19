@@ -92,11 +92,12 @@ defmodule EntitySports.Exchange.HTTPClient do
 
   @impl true
   def e_settle_match_odds(match_id, opts) do
-    params = [
-      filter_type: opts[:filter_type],
-      filter: opts[:filter],
-      status: Utils.match_status(opts[:status])
-    ]
+    params =
+      [
+        filter_type: opts[:filter_type],
+        filter: opts[:filter],
+        status: Utils.match_status(opts[:status])
+      ] ++ Utils.page_params(opts)
 
     get("/matches/#{match_id}/settleodds", params, &Responses.SettleMatchOdds.render_many/1)
   end
